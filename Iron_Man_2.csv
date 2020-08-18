@@ -1,0 +1,998 @@
+,Character,Dialog
+0,Tony,Been a while since I was up here in front of you. Maybe I’ll do us all a favour and just stick to the cards. There’s been some speculation that I was somehow involved in the events that occurred on the freeway and on the rooftop…Christine Everhart
+1,Man,"270 at 30 knots. Holding steady at 15000 feet. You are clear for exfiltration over the drop zonePretty much everyone in the crowd: Tony! Tony! Tony! Tony!Tony: It’s good to be back. You missed me?Man in crowd: Blow something up!Tony: I missed you too. Blow something up? I already did that. I’m not saying that the world is enjoying its longest period of uninterrupted peace in years because of me. I’m not saying that from the ashes of captivity, never has a greater phoenix metaphor been personified in human history. I’m not saying that Uncle Sam can kick back on a lawn chair, sipping on an iced tea because I haven’t come across anyone who’s man enough to go toe-to-toe with me on my best day.Woman in crowd: I love you Tony!Tony: Please, it’s not about me.  and will one day rid society of all its ills. Soon technology will affect the way you live your life every day. No more tedious work, leaving more time for leisure activities and enjoying the sweet life. The Stark Expo. Welcome."
+2,Reporter,"We are coming to you live from the kickoff at the Stark Expo, where Tony Stark has just walked offstage. Don’t worry if you can’t make it down here tonight because this Expo goes on all year long. And I’m gonna be here checking out all the attractions and the pavilions and inventions from all around the world."
+3,Happy Hogan,Make sure you join me…
+4,Tony,"All right, it’s a zoo out there, watch out."
+5,Happy,"Open up, let’s go."
+6,Tony,"Hey, nice to see you. All right. Thank you. I remember you."
+7,People,"Tony, Tony"
+8,Tony,"Hey, hey."
+9,Woman,Call me.
+10,Happy,"Hey, hey, hey, hey. Come on, come on."
+11,Tony,Hello. It would be a pleasure.
+12,Happy,Okay
+13,Tony,See you buddy
+14,Happy,This is Larry.
+15,Tony,"Hey, the oracle of Oracle. What a pleasure. Nice to see you."
+16,Larry,Call me. Call me.
+17,Happy,Larry King.
+18,Tony,"Larry! Larry. Yes, my people, my people."
+19,Happy,"Come on, Tony. There we go."
+20,Tony,Very mellow.
+21,Happy,That wasn’t so bad.
+22,Tony,"No, it was perfect."
+23,Happy,"Look what we got here, the new model."
+24,Tony,"Hey, does she come with the car?"
+25,Happy,I certainly hope so. Hi.
+26,Tony,Hi. And you are?
+27,Woman,Marshal.
+28,Tony,Irish. I like it.
+29,Marshal,Pleased to meet you Tony.
+30,Tony,I’m on the wheel. Do you mind? Where you from?
+31,Marshal,Bedford.
+32,Tony,What are you doing here?
+33,Marshal,Looking for you.
+34,Tony,Yeah? You found me. What are you up to later?
+35,Marshal,Serving subpoenas.
+36,Tony,Yikes.
+37,Happy,He doesn’t like to be handed things.
+38,Tony,"Yeah, I have a peeve."
+39,Marshal,I got it. You are hereby ordered to appear before the Senate Armed Services Committee tomorrow morning at 9 am.
+40,Tony,Can I see a badge?
+41,Marshal,You wanna see the badge?
+42,Happy,He likes the badge.
+43,Marshal,You still like it?
+44,Tony,Yep.  How far are we from D.C.?
+45,Happy,D.C.? 250 miles.
+46,Senator Stern,"Mr Stark, could we pick up now where we left off? Mr Stark. Please."
+47,Tony,Yes dear?
+48,Senator Stern,Can I have your attention?
+49,Tony,Absolutely.
+50,Stern,Do you or do you not possess a specialised weapon?
+51,Tony,I do not.
+52,Stern,You do not?
+53,Tony,"I do not. Well, it depends on how you define the word weapon."
+54,Stern,The Iron Man weapon.
+55,Tony,My device does not fit that description.
+56,Stern,Well… How would you describe it?
+57,Tony,"I would describe it by defining it as what it is, Senator."
+58,Stern,As?
+59,Tony,It’s a high-tech prosthesis. That is… That is… That’s actually the most apt description I can make of it.
+60,Stern,"It’s a weapon. It’s a weapon, Mr Stark."
+61,Tony,"Please, if your priority was actually the well-being of the American citizen…"
+62,Stern,My priority is to get the Iron Man weapon turned over to the people of the United States of America.
+63,Tony,"Well, you can forget it. I am Iron Man. The suit and I are one. To turn over the Iron Man suit would be to turn over myself which is tantamount to indentured servitude or prostitution, depending or what state you’re in. You can’t have it."
+64,Stern,"Look, I’m no expert…"
+65,Tony,In prostitution? Of course not. You’re a senator. Come on.
+66,Stern,"I’m no expert in weapons. We have somebody here who is an expert on weapons. I’d now like to call Justin Hammer, our current primary weapons contractor."
+67,Tony,"Let the record reflect that I observed Mr Hammer entering the chamber, and I am wondering if and when any actual expert will also be in attendance."
+68,Justin Hammer,"Absolutely. I’m no expert. I defer to you, Anthony. You’re the wonder boy. Senator, if I may. I may well not be an expert, but you know who was the expert? Your dad. Howard Stark. Really a father to us all, and to the military-industrial age. Let’s just be clear, he was no flower child. He was a lion. We all know why we’re here. In the last six months, Anthony Stark has created a sword with untold possibilities. And yet, he insists it’s a shield. He asks us to trust him as we cower behind it. I wish I were comforted, Anthony, I really do. I’d love to leave my door unlocked when I leave the house, but this ain’t Canada. You know, we live in a world of grave threats, threats that Mr Stark will not always be able to foresee. Thank you. God bless Iron Man. God bless America."
+69,Stern,That is well said Mr Hammer. The committee would now like to invite Lieutenant Colonel James Rhodes to the chamber.
+70,Tony,Rhodey? What?
+71,Tony,"Hey, buddy. I didn’t expect to see you here."
+72,Rhodey,"Look, it’s me, I’m here. Deal with it. Let’s move on."
+73,Tony,I just…
+74,Rhodey,Drop it.
+75,Tony,"All right, I’ll drop it."
+76,Stern,"I have before me a complete report on the Iron Man weapon, complied by Colonel Rhodes. And, Colonel, for the record, can you please read page 57, paragraph four?"
+77,Rhodey,"You’re requesting that I read specific selections from my report, Senator?"
+78,Stern,"Yes, sir."
+79,Rhodey,It was my understanding that I was going to be testifying in a much more comprehensive and detailed manner.
+80,Stern,I understand. A lot of things have changed today. So if you could just read…
+81,Rhodey,You do understand that reading a single paragraph out of context does not reflect the summery of my final…
+82,Stern,"Just read it, Colonel. I do. Thank you."
+83,Rhodey,"Very well. “As he does not operate within any definable branch of government, Iron Man presents a potential threat to the security of both the nation and to her interests.” I did however, go on to summarise that the benefits of Iron Man far outweigh three liabilities and that it would be in our interest…"
+84,Stern,That’s enough Colonel
+85,Rhodey,…to fold Mr Stark…
+86,Stern,That’s enough
+87,Rhodey,"…into the existing chain of command, Senator."
+88,Tony,"I’m not a joiner, but I’ll consider Secretary of Defence, if you ask nice."
+89,Tony,We can amend the hours a little bit.
+90,Stern,"I’d like to go on and show, if I may, the imagery that’s connected to your report."
+91,Rhodey,I believe it is somewhat premature to reveal these images to the general public at this time.
+92,Stern,"With all due respect, Colonel, I understand. And if you could just narrate those for us, we’d be very grateful. Let’s have the images."
+93,Rhodey,"Intelligence suggests that the devices seen in these photos are, in fact, attempts at making manned copies of Mr Stark’s suit. This has been corroborated by our allies and local intelligence on the ground…"
+94,Rhodey,"… indicating that these suits are quite possibly, at this moment, operational."
+95,Tony,"Hold on a second buddy. Let me see something here.  Boy, I’m good. I commandeered your screens. I need them. Time for a little transparency. Now, let’s see what’s really going on."
+96,Stern,What is he doing?
+97,Tony,"If you will direct your attention to said screens, I believe that’s North Korea."
+98,Stern,Can you turn that off? Take it off.
+99,Tony,Iran.
+100,Tony,No grave threat here. Is that Justin Hammer? How did Hammer get in the game?
+101,Tony,"Justin, you’re on TV. Focus up."
+102,TV Justin,"Okay, give me a left twist. Left’s good. Turn to the right. Oh, shit. Oh, shit."
+103,Tony,"Wow. Yeah, I’d say most countries, five, ten years away. Hammer Industries, twenty."
+104,Justin,I’d like to point out that that test pilot survived.
+105,Stern,I think we’re done is the point that he’s making. I don’t think there’s any reason…
+106,Tony,"The point is, you’re welcome, I guess"
+107,Stern,For what?
+108,Tony,Because I’m your nuclear deterrent. It’s working. We’re safe. America is secure. You want my property? You can’t have it. But I did you a big favour.
+109,Tony,I’ve successfully privatised world peace.
+110,Tony,What more do you want? For now! I tried to play ball with these ass-clowns.
+111,Stern,"you, buddy. We’re adjourned. We’re adjourned for today."
+112,Tony,Okay.
+113,Stern,You’ve been a delight.
+114,Tony,My bond is with the people. And I will serve this great nation at the pleasure of myself. If there’s one thing I’ve proven it’s that you can count on me to pleasure myself.
+115,Tony,"Wake up, Daddy’s home."
+116,Jarvis,"Welcome home, sir. Congratulations on the opening ceremonies. They were such a success, as was your Senate hearing. And may I say how refreshing it is to finally see you in a video with your clothing on, sir."
+117,Tony,You!
+118,Tony,I swear to God I’ll dismantle you. I’ll soak your motherboard. I’ll turn you into a wine rack.
+119,Tony,How many ounce a day of this gobbledegook am I supposed to drink?
+120,Jarvis,"We are up to 80 ounces a day to counteract the symptoms, sir."
+121,Tony,Check palladium levels.
+122,Jarvis,"Blood toxicity, 24%. It appears that the continued use of the Iron Man suit is accelerating your condition. Another core has been depleted."
+123,Tony,"God, they’re running out quick."
+124,Jarvis,"I have run simulations on every known element, and none can serve as a viable replacement for the palladium core."
+125,Jarvis,"You are running out of both time and options. Unfortunately, the device that’s keeping you alive is also killing you."
+126,Jarvis,Miss Potts is approaching. I recommend that you inform her…
+127,Tony,Mute.
+128,Pepper,Is this a joke? What are you thinking?
+129,Tony,What?
+130,Pepper,What are you thinking?
+131,Tony,"Hey, I’m thinking I’m busy. And you’re angry about something. Do you have the sniffles? I don’t want to get sick."
+132,Pepper,Did you just donate…
+133,Tony,Keep your business.
+134,Pepper,…our entire modern art collection to the…
+135,Tony,Boy Scouts of America.
+136,Pepper,…Boy Scouts of America?
+137,Tony,"Yes. It is a worthwhile organisation. I didn’t physically check the crates but, basically, yes. And it’s not “our” collection, it’s my collection. No offence."
+138,Pepper,"No, you know what? I think I’m actually entitled to say “our” collection considering the time that I put in, over 10 years, curating that."
+139,Tony,It was a tax write-off. I needed that.
+140,Pepper,"You know, there’s only about 8,011 things that I really need to talk to you about."
+141,Tony,"Dummy. Hey, stop spacing out. The Bridgeport’s already machining that part."
+142,Pepper,The Expo is a gigantic waste of time.
+143,Tony,I need you to wear a surgical mask until you’re feeling better. Is that okay?
+144,Pepper,That’s rude.
+145,Tony,There’s nothing more important to me than the Expo. It’s my primary point of concern. I don’t know why you’re…
+146,Pepper,The Expo is your ego gone crazy.
+147,Tony,Wow. Look at that. That’s modern art. That’s going up.
+148,Pepper,You’ve got to be kidding.
+149,Tony,I’m gonna put this up right now. This is vital.
+150,Pepper,Stark is in complete disarray. You understand that?
+151,Tony,No. Our stocks have never been higher.
+152,Pepper,"Yes, from a managerial standpoint."
+153,Tony,"You are… Well, if’s messy then let’s double back."
+154,Pepper,Let me give you an example.
+155,Tony,Let’s move onto another subject.
+156,Pepper,"No, no, no, no. You are not taking down the Barnett Newman and hanging that up."
+157,Tony,I’m not taking it down. I’m just replacing it with this.
+158,Tony,Let’s see what I can get going on here.
+159,Pepper,"Okay, fine. My point is, we have already awarded contracts to the wind farm people."
+160,Tony,Yeah. Don’t say “wind farm.” I’m already feeling gassy.
+161,Pepper,"And to the plastic plantation tree, which was your idea by the way. Those people are on payroll…"
+162,Tony,Everything was my idea.
+163,Pepper,…and you won’t make a decision.
+164,Tony,I don’t care about the liberal agenda any more. It’s boring. Boring. I’m giving you a boring alert.  You do it.
+165,Pepper,I do what?
+166,Tony,Excellent idea. I just figured this out. You run the company.
+167,Pepper,"Yeah, I’m trying to run the company."
+168,Tony,"Pepper, I need you to run the company. Well, stop trying to do it and do it."
+169,Pepper,You will not give me the information…
+170,Tony,I’m not asking you to try…
+171,Pepper,…in order to…
+172,Tony,I’m asking you to physically do it. I need you to do it.
+173,Pepper,I am trying to do it.
+174,Tony,"Pepper, you’re not listening to me!"
+175,Pepper,"No, you are not listening to me."
+176,Tony,I’m trying to make you CEO. Why won’t you let me?
+177,Pepper,Have you been drinking?
+178,Tony,"Chlorophyll. I hereby irrevocably appoint you chairman and CEO of Stark Industries effective immediately. Yeah, done deal. Okay? I’ve actually given this a fair amount of thought, believe it or not.  Congratulations? Take it, just take it."
+179,Pepper,I don’t know what to think.
+180,Tony,"Don’t think, drink. There you go."
+181,Pepper,The notary’s here! Can you please come sign the transfer paperwork?
+182,Tony,I’m on happy time.  Sorry.
+183,Happy,What the hell was that?
+184,Tony,It’s called mixed martial arts. It’s been around for three weeks.
+185,Happy,"It’s called dirty boxing, there’s nothing new about it"
+186,Tony,"All right, put them up. Come on."
+187,Pepper,I promise this is the only time I will ask you to sign over your company.
+188,Notary,I need you to initial each box.
+189,Happy,
+190,Tony,"That’s it. I’m done. What’s your name, lady?"
+191,Notary,Rushman. Natalie Rushman
+192,Tony,Front and centre. Come into the church.
+193,Pepper,No. You’re seriously not gonna ask…
+194,Tony,"If it pleases the court, which it does."
+195,Natalie,It’s no problem.
+196,Pepper,I’m sorry. He’s very eccentric.
+197,Tony,Can you give her a lesson?
+198,Happy,No problem.
+199,Tony,Pepper.
+200,Pepper,What?
+201,Tony,Who is she?
+202,Pepper,She is from legal. And she is potentially a very expensive sexual harassment lawsuit if you keep ogling her like that.
+203,Tony,"I need a new assistant, boss."
+204,Pepper,"Yes, and I’ve got three excellent potential candidates. They’re lined up and ready to meet you."
+205,Tony,I don’t have time to meet. I need someone now. I feel like it’s her.
+206,Pepper,"No, it’s not."
+207,Happy,You ever boxed before?
+208,Natalie,"I have, yes."
+209,Happy,"What, like, the Tae Bo? Booty Boot Camp? Crunch? Something like that?"
+210,Tony,"How do I spell your name, Natalie?"
+211,Natalie,R-U-S-H-M-A-N.
+212,Pepper,"What, are you gonna google her now?"
+213,Tony,"I thought I was ogling her.  Wow. Very, very impressive individual."
+214,Pepper,"You’re so predictable, you know that?"
+215,Tony,"She’s fluent in French, Italian, Russian, Latin. Who speaks Latin?"
+216,Pepper,No one speaks Latin.
+217,Tony,No one speaks Latin
+218,Pepper,"It’s a dead language. You can read Latin or you can write Latin, but you can’t speak Latin."
+219,Tony,Did you model in Tokyo? ‘Cause she modelled in Tokyo.
+220,Pepper,Well…
+221,Tony,I need her. She’s got everything that I need.
+222,Happy,"Rule number one, never take your eyes off your opponent."
+223,Pepper,"Oh, my God! Happy."
+224,Tony,That’s what I’m talking about.
+225,Happy,I just slipped.
+226,Tony,You did?
+227,Happy,Yeah.
+228,Tony,Looks like a TKO to me.
+229,Natalie,Just… I need your impression.
+230,Tony,"You have a quiet reserve. I don’t know, you have an old soul."
+231,Natalie,I meant your fingerprint.
+232,Tony,Right.
+233,Pepper,"So, how are we doing?"
+234,Tony,Great. Just wrapping up here. Hey. You’re the boss.
+235,Natalie,"Will that be all, Mr Stark?"
+236,Tony,No.
+237,Pepper,"Yes, that will be all, Ms Rushman. Thank you very much."
+238,Tony,I want one.
+239,Pepper,No.
+240,Tony,"You know, it’s Europe. Whatever happens the next 20 minutes, just go with it."
+241,Pepper,Go with it? Go with what?
+242,Natalie,Mr Stark?
+243,Tony,Hey.
+244,Natalie,Hello. How was your flight?
+245,Tony,"It was excellent. Boy, it’s nice to see you."
+246,Natalie,"We have one photographer from the ACM, if you don’t mind. Okay?"
+247,Pepper,When did this happen?
+248,Tony,What? You made me do it.
+249,Pepper,I made you do what?
+250,Tony,"You quit. Smile. Look, right there. Stop acting constipated. Don’t flare your nostrils."
+251,Pepper,You are so predictable.
+252,Tony,That’s the amazing thing.
+253,Natalie,Right this way.
+254,Tony,You look fantastic.
+255,Natalie,"Why, thank you very much."
+256,Tony,But that’s unprofessional. What’s on the docket?
+257,Natalie,You have a 9:30 dinner.
+258,Tony,Perfect. I’ll be there at 11:00.
+259,Natalie,Absolutely.
+260,Tony,Is this us?
+261,Natalie,It can be.
+262,Tony,Great. Make it us.
+263,Natalie,Okay.
+264,Pepper,Mr Musk. How are you?
+265,Mr Musk,"Hi, Pepper. Congratulations on the promotion."
+266,Pepper,Thank you very much.
+267,Tony,"Elon, how’s it going. Those Merlin engines are fantastic."
+268,Mr Musk,"Thank you. Yeah, I’ve got an idea for an electric jet."
+269,Tony,You do?
+270,Mr Musk,Yeah.
+271,Tony,Then we’ll make it work.  You want a massage?
+272,Pepper,"Oh, God. No. I don’t want a massage."
+273,Tony,I’ll have Natalie make an…
+274,Pepper,I don’t want Natalie to do…
+275,Tony,"Don’t want you tense. By the way, I didn’t mean to spring this on you."
+276,Pepper,Thank you very much.
+277,Tony,Green is not your best colour.
+278,Pepper,"Oh, please."
+279,Justin,Anthony. Is that you?
+280,Tony,My least favourite person on Earth.
+281,Justin,"Hey, pal."
+282,Tony,Justin Hammer.
+283,Justin,How you doing? You’re not the only rich guy here with a fancy car. You know Christine Everhart from Vanity Fair. You guys know each other?
+284,Christine,Hi. Yes.
+285,Pepper,Yes.
+286,Tony,"Yes, roughly."
+287,Pepper,We do.
+288,Justin,"BTW, big story. The new CEO of Stark Industries."
+289,Christine,"I know, I know."
+290,Justin,Congratulations.
+291,Christine,My editor will kill me if I don’t grab a quote for our Powerful Women issue.
+292,Pepper,Oh.
+293,Christine,Can I?
+294,Pepper,Sure.
+295,Justin,"She’s actually doing a big spread on me for Vanity Fair. I thought I’d throw her a bone, you know. Right?"
+296,Pepper,"Right. Well, she did quite a spread on Tony last year."
+297,Tony,And she wrote a story as well.
+298,Pepper,It was very impressive.
+299,Tony,That was good.
+300,Pepper,It was very well done.
+301,Christine,Thank you.
+302,Pepper,I’m gonna go wash.
+303,Tony,Don’t leave me.
+304,Justin,"Hey, buddy. How you doing?"
+305,Tony,I’m all right.
+306,Justin,Looking gorgeous.
+307,Tony,"Please, this is tough."
+308,Christine,Can I ask you… Is this the first time…
+309,Justin,Say “Brie”.
+310,Christine,…that you guys have seen each other?
+311,Tony,"God, that’s so awful."
+312,Christine,"Listen, is it the first time you’ve seen each other since the Senate?"
+313,Tony,Since he got his contract revoked…
+314,Justin,"Actually, it’s on hold."
+315,Tony,…when you were attempting to…That’s not what I heard. What’s the difference between “hold and “cancelled”? The truth?
+316,Christine,"Yes, what is it?"
+317,Justin,"No. The truth is… Why don’t we put that away? The truth is, I’m actually hoping to present something at your Expo."
+318,Tony,"Well, if you invent something that works, I’ll make sure I get you a slot."
+319,Natalie,Mr Stark?
+320,Tony,Yes?
+321,Natalie,Your corner table is ready.
+322,Justin,"I actually have a slot this year. Yes, I do."
+323,Tony,"Hammer needs a slot, Christine."
+324,Justin,"We kid, yeah. We kid. We’re kidders."
+325,Tony,Got any other bad ideas?
+326,Justin,"Tony and I… Tony… I love Tony Stark. Tony loves me. We’re not competitors. Him being out of the picture created tremendous opportunities for Hammer Industries, you know? Everything that Tony and I do…"
+327,Tony,"Well, what’s the use of having…"
+328,Justin,…is a healthy…
+329,Tony,…and owning a race car…
+330,Justin,…competition.
+331,Tony,…if you don’t drive it?
+332,Justin,Is he driving?
+333,Pepper,Natalie. Natalie!
+334,Natalie,"Yes, Ms Potts?"
+335,Pepper,What do you know about this?
+336,Natalie,This is the first that I have known of it.
+337,Pepper,"This, this cannot happen."
+338,Natalie,Absolutely. I understand. How can I help you?
+339,Pepper,Where’s Happy?
+340,Natalie,He’s waiting outside.
+341,Pepper,"Okay, get him. I need Happy."
+342,Natalie,Right away.
+343,Justin,"Tony’s… You know, he… We’re not competitive. You know what I mean?"
+344,Christine,"Yeah, yeah, yeah. You know, can you excuse me just one second?"
+345,Justin,Just read me what you wrote.
+346,Christine,"I will. I will, after."
+347,Justin,Just read it back to me.
+348,Christine,But I have to make one quick phone call.
+349,Justin,Where are you going?
+350,Christine,This is great.
+351,Justin,I’ve got some caviar coming.
+352,Christine,This is great stuff. I’ll be right back.
+353,Someone in background,Look! That’s Stark.
+354,Pepper,"Go, go."
+355,Happy,Hang on.
+356,Pepper,Give me the case.
+357,Happy,"Here, take it."
+358,Pepper,Where’s the key?
+359,Happy,It’s in my pocket.
+360,Pepper,Car!
+361,Tony,Are you okay?
+362,Happy,Yeah.
+363,Tony,Were you heading from me or him?
+364,Happy,I was trying to scare him.
+365,Tony,‘Cause I can’t tell!
+366,Pepper,Are you out of your mind?
+367,Tony,Better security.
+368,Pepper,Get in the car right now!
+369,Tony,I was attacked. We need better security.
+370,Happy,Get in the car.
+371,Tony,"You’re CEO. Better security measures. God, it’s embarrassing."
+372,Pepper,Oh my God!
+373,Happy,I got him!
+374,Tony,Hit him again. Hit him again. Football.
+375,Happy,I got him.
+376,Pepper,Take the case! Take it!
+377,Tony,Give him the case!
+378,Pepper,Stop banging the car!
+379,Tony,Calm down.
+380,Pepper,God. God.
+381,Tony,Give me the case! Please! Come on!
+382,Ivan,
+383,Police officer,"We ran his prints. We got nothing back, not even a name."
+384,Tony,Where are we going?
+385,Police Officer,Over there. We’re not even sure he speaks English. He hasn’t said a word since he got here.
+386,Tony,Five minutes.
+387,Police officer,
+388,Tony,"Pretty decent tech. Cycles per second were a little low. You could have doubled up your rotations. You focused the repulsor energy through ionised plasma channels. It’s effective. Not very efficient. But it’s a passable knock-off. I don’t get it. A little fine tuning you could have made a solid pay check. You could have sold it to North Korea, China, Iran, or gone onto the black market. You look like you got friends in low places."
+389,Ivan,"You come from a family of thieves and butchers. And now, like all guilty men, you try to rewrite your own history. And you forget all the lives the Stark family has destroyed."
+390,Tony,"Speaking of thieves, where did you get this design?"
+391,Ivan,My father. Anton Vanko.
+392,Tony,"Well, I never heard of him."
+393,Ivan,My father is the reason you’re alive.
+394,Tony,"The reason I’m alive is ‘cause you had a shot, you took it, you missed."
+395,Ivan,"Did I? If you can make God bleed, the people will cease to believe in him. And there will be blood in the water. And the sharks will come. The truth, all I have to do is sit here and watch as the world will consume you."
+396,Tony,Where will you be watching the world consume me from? That’s right. A prison cell. I’ll send you a bar of soap.
+397,Ivan,"Hey, Tony. Before you go, palladium in the chest, painful way to die."
+398,Stern,"It’s just unbelievable. It proves that the genie is out of the bottle and this man has no idea what he’s doing. He thinks of the Iron Man weapon as a toy. I was at a hearing where Mr Stark, in fact, was adamant that these suits can’t exist anywhere else, don’t exist anywhere else, never will exist anywhere else, at least for five to ten years, and here we are in Monaco realising, “These suits exist now.”"
+399,Tony,Mute. He should be giving me a medal. That’s the truth.
+400,Pepper,What is that?
+401,Tony,This is your in-flight meal.
+402,Pepper,Did you just make that?
+403,Tony,Yeah. Where do you think I’ve been for three hours?
+404,Pepper,"Tony, what are you not telling me?"
+405,Tony,"I don’t want to go home. At all. Let’s cancel my birthday party and… We’re in Europe. Let’s go to Venice, Cipriani. Remember?"
+406,Pepper,"Oh, yes."
+407,Tony,It’s a great place to be healthy.
+408,Pepper,I don’t think this is the right time. We’re in kind of a mess.
+409,Tony,"Yeah, but maybe that’s why it’s the best time. ‘Cause then we can…"
+410,Pepper,"Well, I think as the CEO I need to show up."
+411,Tony,"As CEO, you are entitled to a leave."
+412,Pepper,A leave?
+413,Tony,A company retreat.
+414,Pepper,A retreat? During a time like this?
+415,Tony,"Just a ride. Well, I’m just saying, to recharge our batteries and figure it all out."
+416,Pepper,Not everybody runs on batteries Tony.
+417,Justin,"Hey. There he is. There he is. What an absolute pleasure. Welcome. Oh goodness gracious. Can we get the handcuffs off my friend here? Forgive me, I’m sorry. I’m such a huge fan of yours. I didn’t want to make a first impression like this. He’s not an animal. Come on. He’s a human being. Thank you. We’re fine. My name is Justin Hammer. I’d like to do some business with you. Please sit. Dig in. What do we have today Jack?"
+418,Jack,We have some salmon carpaccio.
+419,Justin,"Salmon carpaccio. Anything you want here, we got it. I like my dessert first. I had this flown in from San Francisco. It’s Italian though. Organic ice cream. I got a sweet tooth. Apparently you do too, for Tony Stark. What I saw you do to Tony Stark on that track, how you stepped up to him in front of God and everybody that was… Wow. You spoke to me with what you did. And I know that you knew that I’d be listening. This is why I couldn’t bear to have you shipped off to God knows where. It would have been such a waste of talent. But if I might make a suggestion, you know, you don’t just go and try to kill the guy. I think, if I may, you go after his legacy. That’s what you kill. You and me, we are a lot alike in a lot of ways. The only difference between you and I is that I have resources. I think, if I may, you need my resources. Someone behind you, a benefactor. I’d like to be that guy."
+420,Ivan,
+421,Justin,Okay. Do you speak English? Because I can get a translator. I don’t know. Have you been understanding everything I’m saying?
+422,Ivan,"Very good, man."
+423,Justin,"Very good, man."
+424,Ivan,"Very good, man."
+425,Justin,Hey!
+426,Ivan,Hey.
+427,Justin,Yes?
+428,Ivan,I want my bird.
+429,Justin,A bird? You want a bird?
+430,Ivan,I want my bird.
+431,Justin,I can get you a bird. I can get you ten birds.
+432,Ivan,I want my bird.
+433,Justin,"Well, okay. Nothing’s impossible. I could… Are we talking about… Is this a bird back in Russia?"
+434,Pepper,"Yes, but the fundamentals of the company are still very, very strong despite the events in Monaco."
+435,Natalie,The AP wants a quote.
+436,Pepper,Don’t tell them. Fax them…
+437,Rhodey,Where is he?
+438,Natalie,He doesn’t want to be disturbed.
+439,Pepper,He’s downstairs.
+440,News reader,But what happened in Monaco?
+441,Pepper,"Yes, but…."
+442,News reader,"But his continuing erratic behaviour may lead many people to ask themselves, “Can this man still protect us?”"
+443,Pepper,Iron Man never stopped protecting us. The events in Monaco proved that.
+444,JARVIS,"Query complete sir. Anton Vanko was a Soviet physicist who defected to the United States in 1963.However, he was accused of espionage and was deported in 1967. His son, Ivan, who is also a physicist, was convicted of selling Soviet-era weapons grade plutonium to Pakistan, and served 15 years in Kopeisk prison. No further records exist."
+445,Rhodey,"Tony, you gotta get upstairs and get on top of this situation right now. Listen. I’ve been on the phone with the National Guard all day, trying to talk them out of rolling tanks up the PCH, knocking down your front door and taking these. They’re gonna take your suits, Tony, okay? They’re sick of the games. You said nobody else would possess this technology for 20 years. Well, guess what? Somebody else had it yesterday. It’s not theoretical anymore. Are you listening to me? Are you okay?"
+446,Tony,Let’s go.
+447,Rhodey,"Hey, man. Hey, hey! You all right?"
+448,Tony,"Yeah, I should get to my desk.  See that cigar box?"
+449,Rhodey,Yeah.
+450,Tony,It’s palladium.
+451,Rhodey,Is that supposed to be smoking?
+452,Tony,"If you must know, it’s neutron damage. It’s from the reactor wall."
+453,Rhodey,You had this in your body? And how about the high-tech crossword puzzle on your neck?
+454,Tony,Road rash. Thank you.  What are you looking at?
+455,Rhodey,I’m looking at you. You wanna do this whole lone gunslinger act and it’s unnecessary. You don’t have to do this alone.
+456,Tony,"You know, I wish I could believe that. I really do. But you’ve gotta trust me. Contrary to popular belief, I know exactly what I’m doing."
+457,Justin,"This is where we do it. This is my humble abode. You can work in absolute peace. Must be fun to be dead, right? No pressure. Here they are. I’m very excited. They’re combat-ready. I may have done a few miscalculations and rushed the prototype into production. Sue me, I’m enthusiastic. Go ahead, take a look around.  You don’t wanna do that. You’ll be able to access that as soon as we generate some encrypted pass codes. Can we generate some encrypted pass codes? Get some of those encrypted pass codes, Jack. Never mind, I… Wow. Okay. Good stuff."
+458,Ivan,unintelligible
+459,Justin,Sorry?
+460,Ivan,Software shit.
+461,Justin,"Well… You’re good. You really blasted in past the firewall there. Let me show you where you’re gonna be working primarily. Go ahead, take a look. Get a good look at that. That’s something, isn’t it? You know, those are really just for show and tell. They’re $125.7 million a pop, so… Wait!  Oh gosh. Jesus Christ. Get somebody up here. That’s where the pilot goes. I’m having a tough time finding volunteers. I’ll take care of that, just leave it."
+462,Ivan,What you want them do?
+463,Justin,"Well, long term, I want them to put me in the Pentagon for the next 25 years. I want to make Iron Man look like an antique. I wanna go to that Stark Expo, I wanna take a dump in Tony Stark’s front yard. You know what I’m talking about?"
+464,Ivan,I can do that. No problem.
+465,Justin,"Yeah? Hey, fabulous! I love it. Hey, this is our guy. Didn’t I tell you? I had a feeling."
+466,Natalie,"Do you know which watch you’d like to wear tonight, Mr Stark?"
+467,Tony,I’ll give them a look. I should cancel the party.
+468,Natalie,Probably.
+469,Tony,Yeah. ‘Cause it’s…
+470,Natalie,Ill-timed.
+471,Tony,"Right, sends the wrong message."
+472,Natalie,Inappropriate.  Is that dirty enough for you?
+473,Tony,"Gold face, brown hand. The Jaeger. I’ll give that a look. Bring them over.  I gotta say it. It’s hard to get a read on you. Where are you from?"
+474,Natalie,Legal.
+475,Tony,"Can I ask you a question, hypothetically? Bit odd. If this was your last birthday party you were ever gonna have, how would you celebrate it?"
+476,Natalie,I’d do whatever I wanted to do with whoever I wanted to do it with.
+477,Person,Good evening
+478,Person,Good evening
+479,Rhodey,"Yes, sir, I understand. No. No, sir, that will not be necessary. I’ll handle it. Sir, I personally guarantee that within 24 hours, Iron Man will be back on watch.  Hey Pepper."
+480,Pepper,I’m going to get some air.
+481,Rhodey,What’s wrong?
+482,Pepper,I don’t know what to do.
+483,Rhodey,"You gotta be kidding me.  That’s it, I’m making…."
+484,Pepper,"No, no, no. Don’t call anyone."
+485,Rhodey,Pepper. This is ridiculous. I just stuck my neck out for this guy.
+486,Pepper,"I know. I know. I get it. I’m gonna handle it, okay Just let me handle it."
+487,Rhodey,Handle it. Or I’m gonna have to.
+488,Tony,
+489,Pepper,Does this guy know how to throw a party or what?
+490,Tony,I love you.
+491,Pepper,"Unbelievable! Thank you so much. Tony, we all thank you so much for such a wonderful night. And we’re gonna say good night now, and thank you all for coming."
+492,Tony,"No, no, no, we can’t … Wait, wait, wait. We didn’t have the cake. We didn’t blow out the candles."
+493,Pepper,"You’re out of control, okay? Trust me on this, okay?"
+494,Tony,You’re out of control gorgeous.
+495,Pepper,It’s time to go to bed. It’s time.
+496,Tony,Give me another smooch
+497,Pepper,You’re not going to be happy about this.
+498,Tony,"Come on, you know you want to."
+499,Pepper,You just peed in the suit.
+500,Tony,I know. It has a filtration system.
+501,Pepper,It’s not sexy.
+502,Tony,You could drink that water.
+503,Pepper,"Just send everybody home, okay? It’s time to…"
+504,Tony,If you say so.
+505,Pepper,"Okay. I’ll take this, you take that"
+506,Tony,"Pepper Potts. She’s right. The party’s over. Then again, the party was over for me, like, an hour and a half ago. The after-party starts in 15 minutes. And if anybody, Pepper, doesn’t like it, there’s the door.  I think she wants the Gallagher!"
+507,Rhodey,You don’t deserve to wear one of these. Shut it down!
+508,Tony,Goldstein.
+509,Goldstein,"Yes, Mr Stark?"
+510,Tony,Give me a phat beat to beat my buddy’s ass to.
+511,Rhodey,
+512,Tony,"Now, put that thing back where you found it before someone gets hurt.  Sorry, pal, but Iron Man doesn’t have a sidekick."
+513,Rhodey,Had enough?
+514,Pepper,Natalie!
+515,Natalie,Miss Potts.
+516,Pepper,Don’t you “Miss Potts” me! I’m on to you. You know what? Ever since you came here…
+517,Happy,Pepper!
+518,Tony,You want it? Take it!
+519,Rhodey,Put you hand down.
+520,Tony,You think you got what it takes to wear that suit?
+521,Rhodey,"We don’t have to do this, Tony."
+522,Tony,"You wanna be the War Machine, take your shot."
+523,Rhodey,Put it down!
+524,Tony,You gonna take a shot?
+525,Rhodey,Put it down!
+526,Tony,No!
+527,Rhodey,Drop it Tony!
+528,Tony,Take it!
+529,Rhodey,"Edwards Tower, this is Lieutenant Colonel James Rhodes, inbound from three miles east at 5,000 feet…"
+530,Major Allen,Colonel.
+531,Rhodey,Major.
+532,Major Allen,Wow.
+533,Rhodey,Yeah. Let’s take it inside.
+534,Major Allen,Clear the area.
+535,Nick Fury,Sir! I’m gonna have to ask you to exit the doughnut.
+536,Tony,I told you I don’t wanna join your super-secret boy band.
+537,Fury,"No, no, no. See, I remember, you do everything yourself. How’s that working out for you?"
+538,Tony,It’s… It’s… It’s… I’m sorry. I don’t wanna get off on the wrong foot. Do I look at the patch or the eye? Honestly I’m a bit hung over. I’m not sure if you’re real of if I’m having…
+539,Fury,I am very real. I’m the realest person you’re ever gonna meet.
+540,Tony,Just my luck. Where’s the staff here?
+541,Fury,That’s not looking so good.
+542,Tony,I’ve been worse.
+543,SHIELD agent,We’ve secured the perimeter but I don’t think we should hold it for too much longer.
+544,Tony,You’re fired.
+545,Natalie,That’s not up to you.
+546,Fury,"Tony, I want you to meet Agent Romanoff."
+547,Tony,Hi.
+548,Natalie/Agent Romanoff,"I’m a SHIELD shadow. Once we knew you were ill, I was tasked to you by Director Fury."
+549,Tony,I suggest you apologise.
+550,Fury,"You’ve been very busy. You made your girl your CEO, you’re giving away all your stuff. You let your friend fly away with your suit. Now, if I didn’t know better…"
+551,Tony,You don’t know better. I didn’t give it to him. He took it.
+552,Fury,"Whoa, whoa, whoa. He took it? You’re Iron Man and he just took it? The little brother walked in there, kicked your ass and took your suit?  Is that possible?"
+553,Agent Romanoff,"Well, according to Mr Stark’s database security guidelines, there are redundancies to prevent unauthorised usage."
+554,Tony,What do you want from me?
+555,Fury,What do we want from you? What do you want from me?  Hit him.
+556,Tony,"Oh, God, are gonna steal my kidney and sell it?  Could you please not do anything awful for five seconds? What did she just do to me?"
+557,Fury,What did we just do for you? That’s lithium dioxide. It’s gonna take the edge off. We’re trying to get you back to work.
+558,Tony,Give me a couple of boxes of that. I’ll be right as rain.
+559,Agent Romanoff,"It’s not a cure, it just abates the symptoms."
+560,Fury,Doesn’t look like it’s gonna be an easy fix.
+561,Tony,"Trust me, I know. I’m good at this stuff. I’ve been looking for a suitable replacement for palladium. I’ve tried every combination, every permutation of every known element."
+562,Fury,"Well, I’m here to tell you, you haven’t tried them all."
+563,Justin,"Hey, hey, het. Special delivery. Candygram.  We got you the bird, pal."
+564,Ivan,This is not my bird.
+565,Justin,"What do you mean? That’s the bird. This is the bird. Yeah, pulled a lot of strings to get this bird. This is a great bird."
+566,Jack,It’s a beautiful bird.
+567,Justin,We got this bird all the way from Russia.
+568,Ivan,"Hey, man, this is not my bird."
+569,Justin,"Well, listen, even if it’s not the bird, I mean, this is a gorgeous bird. I mean, you know, look, don’t get so attached to things. Learn to let go. Wait a minute. Jack, what is that? Is that… That’s not a helmet. What is that?  Ivan… What’s this? Jack. Is that a helmet? It doesn’t look like a helmet to me. How… How are you supposed to get a head in there? Jack, could you put your head in there?"
+570,Jack,No.
+571,Justin,"Try to put your head in there. Go ahead. Try to put your head in there.  See, Ivan? He can’t put his head in there. That’s… That’s not a helmet. It’s a head. I need to put a guy in there. I need to fit a person in that suit. You understand?"
+572,Ivan,Drone better.
+573,Justin,What? Drone better? Why is drone better? Why is drone better?
+574,Ivan,People make problem. Trust me. Drone better.
+575,Justin,"Ivan, you know, I like you. I got you the bird. You said, “No problem.” That’s what you said to me. You said, “No problem.” Now I need suits. The government wants suits. Like Iron Man. You understand? That’s what the people want. That’s what’s gonna make them happy."
+576,Ivan,"Hey, man. Don’t get too attached to things. Learn to let go."
+577,Justin,"These drones better steal the show, Ivan. You understand? Better rock my world, Ivan."
+578,General,Unbelievable. This ought to get the Senate off my ass. It’s functional?
+579,Rhodey,Fully mission-capable.
+580,General,Good. Get Hammer down here to weaponise it.
+581,Rhodey,Sir?
+582,General,Justin Hammer’s making a weapons presentation at the Expo. We’d like this to introduce it.
+583,Rhodey,"Sir, I don’t believe that the Expo…"
+584,General,"Colonel, the world needs to see this fast. We’ve got to make this happen."
+585,Rhodey,"Yes, General, but…"
+586,General,It’s also an order.
+587,Rhodey,Yes sir.
+588,General,"Good work, Colonel. You’ve made your country proud."
+589,Rhodey,Thank you sir.
+590,Fury,That thing in your chest is based on unfinished technology.
+591,Tony,"No, it was finished. It has never been particularly effective until I miniaturised it and put it in my…"
+592,Fury,"No. Howard said the arc reactor was the stepping stone to something greater. He was about to kick off an energy race that was gonna dwarf the arms race. He was on to something big, something so big that it was gonna make the nuclear reactor look like a triple-A battery."
+593,Tony,"Just him, or Anton Vanko in on this too?"
+594,Fury,"Anton Vanko is the other side of that coin. Anton saw it as a way to get rich. When your father found out, he had him deported. When the Russians found out he couldn’t deliver they shipped his ass off to Siberia and he spent the next 20 years in a vodka-fuelled rage. Not quite the environment you want to raise a kid in, the son you had the misfortune of crossing paths with in Monaco."
+595,Tony,You told me I hadn’t tried everything. What do you mean I haven’t tried everything? What haven’t I tried?
+596,Fury,He said that you were the only person with the means and knowledge to finish what he started.
+597,Tony,He said that?
+598,Fury,"Are you that guy? Are you? ‘Cause if you are, then you can solve the riddle of your heart."
+599,Tony,"I don’t know where you get your information, but he wasn’t my biggest fan."
+600,Fury,What do you remember about your dad?
+601,Tony,"He was cold, he was calculating. He never told me he loved me. He never even told me he liked me, so it’s a little tough for me to digest when you’re telling me he said the whole future was riding on me and he’s passing it down. I don’t get that. You’re talking about a guy who’s happiest day was when he shipped me off to boarding school."
+602,Fury,That’s not true.
+603,Tony,"Well, then, clearly you knew my dad better than I did."
+604,Fury,"As a matter of fact, I did. He was one of the founding members of SHIELD."
+605,Tony,What?
+606,Fury,I got a two o’clock
+607,Tony,"Wait, wait, wait, wait. What’s this?"
+608,Fury,"Okay, you’re good, right?"
+609,Tony,"No, I’m not good."
+610,Fury,You got this? Right? Right?
+611,Tony,Got what? I don’t even know what I’m supposed to get.
+612,Fury,"Natasha will remain a floater at Stark with her cover intact. You remember Agent Coulson, right?"
+613,Tony,Yeah.
+614,Fury,"And Tony, remember, I got my eye on you."
+615,Natalie/Agent Romanoff/Natasha,We’ve disabled all communications. No contact with the outside world. Good luck.
+616,Tony,"Please. First thing, I need a little bodywork. I’ll put in a little time at the lab. If we could send one of your goon squad down to The Coffee Bean, Cross Creek, for a Starbucks run, or something like that, that’d be nice."
+617,Agent Coulson,"I’m not here for that. I’ve been authorised by Director Fury to use any means necessary to keep you on premises. If you attempt to leave or play any games, I will tase you and watch Supernanny while you drool into the carpet. Okay?"
+618,Tony,"I think I got it, yeah."
+619,Agent Coulson,Enjoy your evening’s entertainment.
+620,Major Allen,Think this is the power source?
+621,Rhodey,"Major, this is not a scientific exercise. Let’s just focus on arming it, all right?"
+622,Major Allen,"Yes, sir."
+623,Justin,"Oh, yes! Oh, yes, yes, yes. Is it my birthday? You got it. What did you do? What did you do? Is this what I think it is?"
+624,Rhodey,"Yes it is. Hammer, I want to know what you’re gonna do for us."
+625,Justin,"What am I going to do for you? Well, the first thing I’m gonna do for you is I’m gonna upgrade your software. And then, second, I think I should…"
+626,Rhodey,That’s not what I’m talking about. I’m talking about firepower.
+627,Justin,"Well, you’re talking to the right guy.  Claridge Hi-Tec, semi-automatic, 9mm pistol. Too downtown? I agree. M24 shotgun, pump action. Five-round magazine. You know what? You’re not a hunter. What am I talking about? I’m getting rid of it. This is the FN-2000 from Belgium. They do make something better than waffles. It’s beautiful, But I can tell this isn’t disco enough for you, so I’m gonna put it right here. You’re looking at a Milkor 40mm grenade launcher. Tear gas, smoke. Hippie control. You’re tough. Let me tell you something. Size does matter. Don’t let anyone tell you different. This is an M134 7.62 Minigun. Six invidual barrels. The torso taker, powder maker. Our boys in uniform call in Uncle Gazpacho or Puff the Magic Dragon. Okay. These are the Cubans, baby. This is the Cohibas, the Montecristos. This is a kinetic-kill, side-winder vehicle with a secondary cyclotrimethlyenetrinitamine RDX burst. It’s capable of busting the bunker under the bunker you just busted. If it were any smarter, it would write a book. A book that would make Ulysses look like it was written in crayon. It would read it to you. This is my Eiffel Tower. This is my Rachmaninoff’s Third. My Pieta. It’s completely elegant. It’s bafflingly beautiful. And it’s capable of reducing the population of any standing structure to zero. I call it the Ex-Wife. That’s the best I got. Are we gonna do this? Give me something here. You’re like a sphinx. I can’t read you."
+628,Rhodey,I think I’ll take it.
+629,Justin,Which one?
+630,Rhodey,All of it.
+631,Justin,All of it.
+632,Howard,"Everything is achievable through technology. Better living, robust heath,"
+633,Man,"All right, I think we got…"
+634,Howard,I’ll… I’ll… I’ll come in and…
+635,Man,Are you waiting on me?
+636,Howard,"So, from all of us at Stark Industries, I’d like to personally show you my ass. I’d like to… I can’t… This is… I can’t… We have this, don’t we? This is a ridiculous way… Everything  Tony. You’re too young to understand this right now, so I thought I would put it on film for you. I built this for you. And someday you’ll realise that it represents a whole lot more than just people’s inventions. It represents my life’s work. This is the key to the future. I’m limited by the technology of my time, but one day you’ll figure this out. And when you do, you will change the world. What is and always will be my greatest creation is you. [Tony looks like he’s about to cry as the film ends."
+637,Tony,How much?
+638,Strawberry man,$6. Six.
+639,Tony,I don’t have any dough. Here.
+640,Strawberry man,"No, sir, that’s too much."
+641,Tony,"No, it’s fine. Take that. It’s fine"
+642,Strawberry man,"No, señor."
+643,Tony,"Take it. Take it. I don’t like people handing me things. If you just drop that there, that’d be great."
+644,Strawberry man,Are you Iron Man?
+645,Tony,Sometimes.
+646,Strawberry man,We believe in you!
+647,Pepper,It was an illegal seizure of trademark property.
+648,PA,Miss Potts?
+649,Tony,Relax.
+650,PA,Mr Stark…
+651,Tony,Is here.
+652,PA,He refuses…
+653,Tony,I don’t. It’s fine. I’ll just be a second.
+654,Pepper,"Listen, it’s our position that Stark has and continues to maintain propriety ownership of the Mark II platform."
+655,News reporter,"When Mr Stark announced he was indeed Iron Man, he was making a promise to America."
+656,Pepper,"No, the suit belongs to us."
+657,News reporter,We trusted that he would look out for us.
+658,Pepper,"Yeah, but you’re not…"
+659,News reporter,He obviously did not.
+660,Pepper,Burt…
+661,News reporter,And now we learn that his secretary…
+662,Pepper,"Yes, it does."
+663,News reporter,"…a woman named Virginia “Pepper” Potts, has been appointed as CEO of Stark Industries. What are her qualifications?"
+664,Pepper,No.
+665,News reporter,Miss Potts has done nothing to manage this terrible…
+666,Tony,Mute.
+667,Pepper,"No… Burt… Burt… Burt, listen to me. Don’t tell me that we have the best patent lawyers in the country and then not let me pursue this."
+668,Tony,I’ll get this stuff out of here.
+669,Pepper,"Well, then, tell the President to sign an order. We’ll talk about it at the Expo.  Hammer’s giving some presentation tomorrow evening. Will Tony Stark be there?"
+670,Tony,Will I?
+671,Pepper,"No, he will not. Bye."
+672,Tony,I would like to be. Got a minute?
+673,Pepper,No.
+674,Tony,"Come on, you just got off the phone. You’re fine. 30 seconds."
+675,Pepper,Twenty-nine Twenty-eight.
+676,Tony,"I was just driving over here, and I thought I was coming to basically apologise, but I’m not."
+677,Pepper,You didn’t come here to apologise?
+678,Tony,"Look, that goes without saying, and I’m working on that. But I haven’t been entirely upfront with you, and I just want to try to make good. Can I move this? This is crazy. It’s like a Ferris wheel, going. I’m trying to get some…"
+679,Pepper,No.
+680,Tony,"Do you know how short life is? And if I never got to express… And by the way, this is somewhat revelatory to me. And I don’t care… I mean, I care. It would be nice. I’m not expecting you to… Look, here’s what I’m trying to say. I’m just gonna say it."
+681,Pepper,"Let me stop you right here, okay? Because if you say “I” one more time, I’m gonna actually hurl something at your head, I think. I am trying to run a company. Do you have any idea what that entails?"
+682,Tony,Yes.
+683,Pepper,"People are relying on you to be Iron Man and you’ve disappeared, and all I’m doing is putting out your fires and taking the heat of it. I am trying to do the job that you were meant to do. Did you bring me strawberries? Did you know that there’s only one thing on Earth that I’m allergic to?"
+684,Tony,Allergic to strawberries. This is progress Pepper. I knew there was a correlation between you and this.
+685,Pepper,I need you…
+686,Tony,I need you too.
+687,Pepper,…to leave now
+688,Tony,That’s what I’m trying to…
+689,Natasha,Ms Potts?
+690,Pepper,"Hi, come on in."
+691,Natasha,Wheels up in 25 minutes.
+692,Pepper,Thank you.
+693,Happy,"Anything else, boss?"
+694,Tony,"I’m good, Hap."
+695,Pepper,"No, I’ll be just another minute."
+696,Tony,"I lost both the kids in the divorce.  Are you blending in well here, Natalie? Here are Stark Enterprises? Your name is Natalie, isn’t it? I thought you two didn’t get along?"
+697,Pepper,No. That’s not so.
+698,Tony,It’s just me you don’t care for. No? Nothing?
+699,Pepper,"Actually, while you’re here maybe you and Natalie could discuss the matter of the personal belongings."
+700,Natasha,Absolutely.  I’m surprised you can keep your mouth shut.
+701,Tony,"Boy, you’re good. You are mind-blowingly duplicitous. How do you do it? You just tear things… You’re a triple imposter. I’ve never seen anything like you. Is there anything real about you? Do you even speak Latin?"
+702,Natasha,
+703,Tony,Which means? Wait. What? What did you just say?
+704,Natasha,It means you can either drive yourself home or I can have you collected.
+705,Tony,You’re good. [Piles things up under desk spinny thing and throws strawberries in the bin. Goes back to the model and looks at it through one eye.
+706,Tony,"Jarvis, could you kindly Vac-U-Form a digital wire frame? I need a manipulatable projection."
+707,Jarvis,"1974 Stark Expo model scan complete, sir."
+708,Tony,How many buildings are there?
+709,Jarvis,Am I to include the Belgium waffle stands?
+710,Tony,That was rhetorical. Just show me.  What does that look like to you Jarvis? Not unlike an atom. In which case the nucleus would be here. Highlight the unisphere. Lose the footpaths. Get rid of them.
+711,Jarvis,"What is it you’re trying to achieve, sir?"
+712,Tony,"I’m discovering… Correction. I’m rediscovering a new element, I believe. Lose the landscaping, the shrubbery, the trees."
+713,Jarvis,The proposed element should serve as a viable replacement for palladium.
+714,Tony,Thank Dad.
+715,Jarvis,"Unfortunately, it is impossible to synthesise."
+716,Tony,"Get ready for a major remodel, fellas. We’re back in hardware mode."
+717,Agent Coulson,I heard you broke the perimeter.
+718,Tony,"Yeah. That was, like, three years ago. Where have you been?"
+719,Agent Coulson,I was doing some stuff.
+720,Tony,"Yeah, well, me too and it worked. Hey, I’m playing for the home team Coulson, you and all your Fabulous Furry Freak Brothers. Now, are you gonna let me work or break my balls?"
+721,Agent Coulson,What’s this doing here?
+722,Tony,That’s it. Bring that to me.
+723,Agent Coulson,You know what this is?
+724,Tony,Perfectly level. I’m busy. What do you want?
+725,Agent Coulson,Nothing. Goodbye. I’ve been reassigned. Director Fury wants me in New Mexico.
+726,Tony,Fantastic. Land of Enchantment.
+727,Agent Coulson,So I’m told.
+728,Tony,Secret stuff?
+729,Agent Coulson,Something like that. Good luck.
+730,Tony,Bye. Thanks.
+731,Agent Coulson,We need you.
+732,Tony,"Yeah, more than you know."
+733,Agent Coulson,Not that much.
+734,Jarvis,Initialising prismatic accelerator.
+735,Tony,That was easy.
+736,Jarvis,"Congratulations sir. You have created a new element.  Sir, the reactor has accepted the modified core. I will begin running diagnostics."
+737,Justin,Hey Ivan. I got Senator Stern here. Thought we’d swing over and look at some of the drone designs.
+738,Ivan,The drone is not going to be ready.
+739,Justin,Not ready? What do you mean?
+740,Ivan,"I can make presentation, not demonstration."
+741,Justin,What the hell is the difference?
+742,Ivan,Presentation. No fly. No shoot.
+743,Justin,"Wait, wait, wait. Wait, wait, wait. What can you make them do? I mean, this is a weapons demonstration."
+744,Ivan,I can make salute.
+745,Justin,"You can make salute? What do you mean “make salute”? What the hell does that mean Ivan? This is not what we agreed to, okay? You promised me suits and then you promised me drones."
+746,Ivan,"Hey, man, everything will be okay."
+747,Justin,This is not what I wanted.
+748,Justin,"Hey, there he is. It’s the bird man. Now you like the bird. Is that right? Is that your bird? I’m confused. You said it wasn’t, but now it looks like you’re the best of pals. You love that bird, don’t you? You know what? Take the bird."
+749,Ivan,Hey!
+750,Justin,"Take his pillows too. Both of them. And his shoes. Take his shoes. I took your stuff. How does that make you feel? Do you feel bad? Good. ‘Cause that’s how I feel! We had a contract. I saved your life and you give me suits. That was our deal. And you did not deliver. I don’t know if you’re a genius or a fraud. I don’t know what you are. Something really, really great fell into my lap. And if it hadn’t, I’d be at your mercy tonight. Now I have a piece of Stark tech that I pimped out myself. And now your overpriced paperweights and gonna look like a backdrop to my demonstration. Do you dig what I’m getting at here?"
+751,Ivan,unintelligible
+752,Justin,"I don’t know if you know this, but I don’t speak Russian! I’m gonna leave now. I’m gonna go to the Expo. Maybe I’ll even get laid. You see these guys? They’re your babysitters. They are not to be trifled with. When I get back, we’re gonna renegotiate the terms of our agreement. And you’re gonna make good on our arrangement because if you don’t, you’re gonna be exactly what you were when I found you, a dead man. You got that? Maybe you can watch me on TV."
+753,Tony,"Dummy, You, can we clean up this mess? You’re killing me. You know I don’t…"
+754,Jarvis,Incoming call with a blocked number sir.
+755,Tony,My phone privilege is reinstated. Lovely. Coulson. How’s the Land of Enchantment?
+756,Ivan,"Hey, Tony, how you doing? I double cycle."
+757,Tony,You what?
+758,Ivan,You told me double cycle’s more power. Good advice.
+759,Tony,You sound pretty sprightly for a dead guy.
+760,Ivan,You too.
+761,Tony,Trace him.
+762,Jarvis,Sir.
+763,Ivan,"Now, the true history of Stark name will be written."
+764,Tony,"Jarvis, where is he?"
+765,Jarvis,Accessing the Oracle grid. Eastern Seaboard.
+766,Ivan,"What your father did to my family over 40 years, I will do to you in 40 minutes."
+767,Tony,Sounds good. Let’s get together and hash it out.
+768,Jarvis,Tri-State area. Manhattan and outlying boroughs.
+769,Ivan,I hope you’re ready.
+770,Jarvis,Call trace incomplete.
+771,Jarvis,Sir
+772,Tony,"You want to run some tests, run them. And assemble the suit while you’re at it. Put it together now."
+773,Jarvis,We are unclear as to the effects.
+774,Tony,"I don’t want to hear it Jarvis.  That tastes like coconut. And metal. Oh wow, yeah!"
+775,Happy,"I’ll keep the car down here, all right?"
+776,Pepper,Thank you Happy.
+777,Announcer,…Justin Hammer. His presentation will begin shortly in the main pavilion.
+778,Justin,"Yeah. That’s what I’m talking about. Thanks for coming. Ladies and gentlemen, for far too long, this country has had to place its brave men and women in harm’s way, but then the Iron Man arrived, and we thought the days of losing lives were behind us. Sadly, that technology was kept out of reach. That’s not fair. That’s not right. And it’s just too bad."
+779,Pepper,"Oh, Lord."
+780,Justin,"Regardless, it was an impressive innovation, one that grabbed the headlines the world over. Well, today, my friends, the press is faced with quite a difficult problem. They are about to run out of ink.  Ladies and gentlemen, today I am proud to present to you the very first prototype in the Variable Threat Response Battle Suit and its pilot, Air Force Lieutenant Colonel James Rhodes."
+781,Pepper,What?
+782,Justin,"For America and its allies, Hammer Industries is reporting for…"
+783,Tony,We got trouble.
+784,Rhodey,"Tony, there are civilians present. I’m here on orders. Let’s not do this right now."
+785,Tony,Give them a wave.
+786,Justin,"Hey, all right. Yeah."
+787,Tony,All these people are in danger. We gotta get them out of here. You gotta trust me for the next five minutes.
+788,Rhodey,"Yeah, I tried that. I got tossed around your house, remember?"
+789,Tony,"Listen, I think he’s working with Vanko."
+790,Rhodey,Vanko’s alive?
+791,Justin,Yeah.
+792,Tony,What is he?
+793,Justin,What?
+794,Tony,Where’s Vanko?
+795,Justin,Who?
+796,Tony,Tell me.
+797,Justin,What are you doing here man?
+798,Rhodey,"Whoa, whoa, whoa."
+799,Tony,Is that you?
+800,Rhodey,"No, I’m not doing that. That’s not me. I can’t move. I’m locked up. I’m locked up!  Get out of here. Go! This whole system’s been compromised."
+801,Tony,
+802,Rhodey,"No, no!"
+803,Tony,"Jarvis, break in. I need to own him."
+804,Jarvis,Yes sir.
+805,Rhodey,"Tony, Tony, I’m locked on. I have target lock."
+806,Tony,On what?
+807,Rhodey,"On you.  Tony, on your six!"
+808,Justin,What’s going on? What’s happening?
+809,Technician,The software’s been overridden.
+810,Justin,What? What do you mean it’s been overridden? What does that mean?
+811,Technician,I think he slaved the drones.
+812,Justin,That’s impossible. Call the guards.
+813,Jack,All the phones are down sir.
+814,Justin,"Well, then call their… Call their cells."
+815,Jack,Their cell phones are not working either sir.
+816,Technician,He’s locked us out of the mainframe.
+817,Pepper,Who’s locked you out of the mainframe?
+818,Justin,"Please, please, go away. Go away. I’ve got this handled."
+819,Pepper,Have you now?
+820,Justin,"Yes, I do. In fact, if your guy hadn’t showed up, this wouldn’t be happening. So, please, now go away. Thank you  Listen, we got to get these bitches out of here. What?"
+821,Natasha,You tell me who’s behind this. Who’s behind this?
+822,Justin,Ivan. Ivan Vanko.
+823,Natasha,Where is he?
+824,Justin,At my facility.
+825,Pepper,"I need NYPD, please."
+826,Justin,"No, no, no!"
+827,Pepper,Command Central.
+828,Justin,"No, no, honey. Don’t call the authorities."
+829,Pepper,Okay. Right away. Right away.  Tell me everything you know. Go.
+830,Tony,How are we doing Jarvis?
+831,Jarvis,Remote reboot unsuccessful.
+832,Security guard,This way.
+833,Happy,Nobody’s answering the phone. What’s going on?
+834,Natasha,Get in the car. Take me to Hammer Industries.
+835,Happy,I’m not taking you anywhere.
+836,Natasha,Fine. You want me to drive?
+837,Happy,"No, I’m driving. Get in the car."
+838,Tony,Nice work kid.
+839,Rhodey,You got multiples coming in on you.
+840,Tony,Let’s get this away from the Expo.
+841,Natasha,"Wen we arrive, I need you to watch the perimeter.  I’m gonna enter the facility and take down the target. Watch the road."
+842,Happy,I got it. I got it.
+843,Rhodey,"Listen, listen. A pack just peeled off. They’re headed back to the Expo."
+844,Tony,Got it.
+845,Rhodey,In closing in on you. Ordnance coming in hot Tony. Watch it.
+846,Natasha,Stay in the car.
+847,Happy,I’m not staying in the car.
+848,Natasha,"I said, stay in the car."
+849,Happy,"What are you wearing? Look, I’m not letting you go in there alone."
+850,Natasha,You want to help? Keep the car running.
+851,Happy,Okay.
+852,Hammer security guard,"Hey, hey, hey. You can’t come in here."
+853,Second guard,Hold on. Hey!
+854,Technician,Each set of drone is communicating in its own unique language.
+855,Pepper,"Well, choose one and focus on that."
+856,Justin,Have you tried Russian? Why don’t you try Russian?
+857,Announcement,Attention. We have intrusion on Grid W.
+858,Security guard,We got it. We’re on our way.
+859,Happy,I got him! [Sees what Natasha has done
+860,Tony,"Rhodey, you still locked on?"
+861,Rhodey,Yeah.
+862,Tony,Drop your socks and grab your Crocs. We’re about to get wet on this ride.
+863,Rhodey,"Wait, wait, wait!"
+864,Natasha,He’s gone.
+865,Tony,I’m sorry buddy. Had to thin out the herd. What’s your 20?
+866,Happy,What are you doing?
+867,Natasha,I’m rebooting Rhodey’s suit.
+868,Rhodey,Tony.
+869,Natasha,Reboot complete  You got your best friend back.
+870,Tony,"Thank you very much, Agent Romanoff."
+871,Natasha,Well done on the new chest piece. I am reading significant higher output and your vitals all look promising.
+872,Tony,"Yes, for the moment, I’m not dying. Thank you."
+873,Pepper,What do you mean you’re not dying? Did you just say you’re dying?
+874,Tony,"Is that you? No, I’m not. Not anymore."
+875,Pepper,What’s going on?
+876,Tony,I was going to tell you. I didn’t want to alarm you.
+877,Pepper,You were gonna tell me? You really were dying?
+878,Tony,You didn’t let me.
+879,Pepper,Why didn’t you tell me that?
+880,Tony,I was gonna make you an omelette and tell you.
+881,Natasha,"Hey, hey. Save it for the honeymoon. You got incoming Tony. Looks like the fight’s coming to you."
+882,Tony,Great. Pepper?
+883,Pepper,Are you okay now?
+884,Tony,I am fine. Don’t be mad. I will formally apologise…
+885,Pepper,I am mad!
+886,Tony,…when I’m not fending off a Hammeroid attack.
+887,Pepper,Fine.
+888,Tony,We could have been in Venice.
+889,Pepper,Oh please.
+890,Tony,"Rhodes? Snap out of it buddy. I need you. They’re coming. Come on, let’s roll. Get up."
+891,Rhodey,"Oh, man. You can have your suit back."
+892,Tony,You okay?
+893,Rhodey,"Yeah, thanks. Tony, look, I’m sorry, okay?"
+894,Tony,Don’t be.
+895,Rhodey,No. I should have trusted you more.
+896,Tony,I’m the one who put you in this position. Forget it.
+897,Rhodey,No. It’s your fault. I just wanted to say I’m sorry.
+898,Tony,"Thank you. That’s all I wanted to hear. Partner. They’re coming in hot, any second. What’s the play?"
+899,Rhodey,"Well, we want to take the high ground, okay? So let’s put the biggest gun up on that ridge."
+900,Tony,Got you. Where do you want to be?
+901,Rhodey,Where are you going?
+902,Tony,What’re you talking about?
+903,Rhodey,I meant me.
+904,Tony,You have a big gun. You are not the big gun.
+905,Rhodey,"Tony, don’t be jealous."
+906,Tony,No. It’s subtle all the bells and whistles.
+907,Rhodey,Yeah. It’s called being a badass.
+908,Tony,Fine. All right. You go up to. I’ll draw them in.
+909,Rhodey,Don’t stay down here. This is the worst place to be.
+910,Tony,"Okay, you got a spot. Where’s mine?"
+911,Rhodey,"It’s the kill box, Tony. Okay This is where you go to die."
+912,Tony,See that?
+913,Rhodey,"Yeah, yeah. Nice."
+914,Tony,Rhodey? Get down.
+915,Rhodey,Wow. I think you should lead with that next time.
+916,Tony,Yeah. Sorry boss. I can only use it one. It’s a one-off.
+917,Justin,I told you that five minutes ago.
+918,Pepper,That’s your guy here.
+919,Justin,Excuse me?
+920,Police officer,You’re being placed under arrest.
+921,Justin,Are you kidding me?
+922,Police officer,Hands behind your back sir.
+923,Justin,"I’m trying to help here. I get it. I see what you’re doing. You’re trying to pin this on me, huh? That’s good. That’s good. You’re starting to think like a CEO, taking out the competition. I like that. You think you’re making a problem for me?  I’m gonna make a problem for you. I’m gonna be seeing you again real soon."
+924,Pepper,"When they get here, I think you should station them at the south, east and both west exits."
+925,Police officer,We shut down the 7 train in and out of Willets Point already.
+926,Pepper,"Well, have city buses there to ferry people to operating lines."
+927,Police officer,Yeah. Are you coming with us?
+928,Pepper,"No, I’m gonna stay until to park is clear."
+929,Police officer,Okay.
+930,Natasha,Head up. You got one more drone incoming. This one looks different.  The repulsor signature is significantly higher.
+931,Ivan,Good to be back.
+932,Rhodey,This ain’t gonna be good.  I got something special for this guy. I’m gonna bust his bunker with the Ex-Wife.
+933,Tony,With the what?  Hammer tech?
+934,Rhodey,Yeah.
+935,Tony,I got this.  Rhodes. I got an idea. You want to be a hero?
+936,Rhodey,What?
+937,Tony,I could really use a sidekick. Put your hand up.
+938,Rhodey,This is your idea?
+939,Tony,Yep.
+940,Rhodey,"I’m ready. I’m ready. Go, go, go!"
+941,Tony,Take it!
+942,Ivan,You lose.
+943,Rhodey,All these drones are rigged to blow. We gotta get out of here man.
+944,Tony,Pepper?
+945,Pepper,Oh my God. I can’t take this anymore.
+946,Tony,You can’t?
+947,Pepper,I can’t take this.
+948,Tony,Look at me.
+949,Pepper,"My body, literally, cannot handle the stress. I never know if you’re gonna kill yourself or wreak the whole company."
+950,Tony,I think I did okay.
+951,Pepper,I quit. I’m resigning. That’s it.
+952,Tony,"What did you just say? You’re done? That’s surprising. No, it’s not surprising. I get it. You don’t have to make excuses."
+953,Pepper,I’m… I’m… I’m not making any excuses.
+954,Tony,You actually were just making excuses. But you don’t have to.
+955,Pepper,"No, I wasn’t making an excuse. I’m actually very justified."
+956,Tony,"Listen. Hey, hey. You deserve better."
+957,Pepper,Well…
+958,Tony,"You’ve taken such good care of me. I’ve been in a tough spot, but you got me through it, so… Right?"
+959,Pepper,Thank you.
+960,Tony,Yeah.
+961,Pepper,Thank you for understanding.
+962,Tony,"Yeah, yeah. Let’s talk clean-up."
+963,Pepper,I’ll handle the transition. It’ll be smooth.
+964,Tony,Okay. What about the press? Because you only had the job for a week. That’s gonna seem…
+965,Pepper,"Well, with you it’s like dog years."
+966,Tony,I know.
+967,Pepper,"I mean, it’s like the Presidency."
+968,Tony,Weird.
+969,Pepper,"No, it’s not weird."
+970,Tony,"It’s okay, right?"
+971,Pepper,Yeah.
+972,Tony,Run that by me again.
+973,Rhodey,I think it was weird.  You guys look like two seals fighting over a grape.
+974,Pepper,"I had just quit, actually."
+975,Tony,"Yeah, so we’re not…"
+976,Rhodey,You don’t have to do that. I heard the whole thing.
+977,Tony,You should get lost.
+978,Rhodey,I was here first. Get a roof.
+979,Tony,I thought you were out of one-liners.
+980,Rhodey,That’s the last one.
+981,Tony,"You kicked ass back there, by the way."
+982,Rhodey,"Thank you. You too. Listen, my car got taken out in the explosion, so I’m gonna have to hang on to your suit for a minute, okay?"
+983,Tony,Not okay. Not okay with that.
+984,Rhodey,It wasn’t a question.
+985,Tony,How are you gonna resign if I don’t accept?
+986,Fury,"I don’t think I want you looking at that. I’m not sure it pertains to you anymore. Now this on the other hand, is Agent Romanoff’s assessment of you. Read it."
+987,Tony,"“Personality overview. Mr Stark displays compulsive behaviour.” In my own defence, that was last week. “Prone to self-destructive tendencies.” I was dying. I mean, please. Aren’t we all? “Textbook narcissism”? Agreed. Okay, here it is. “Recruitment assessment for Avenger Initiative. Iron Man? Yes.” I gotta think about it."
+988,Fury,Read on.
+989,Tony,“Tony Stark not… Not recommended”? That doesn’t make any sense. How can you approve me but not approve me? I got a new ticker. I’m trying to do right by Pepper. I’m in a stable-ish relationship.
+990,Fury,Which leads us to believe at this juncture we’d only like to use you as a consultant.
+991,Tony,"Then again, I will waive my customary retainer in exchange for a small favour. Rhodey and I are being honoured in Washington and we need a presenter."
+992,Fury,I’ll see what I can do.
+993,Stern,"It is my honour to be here today to present these distinguished awards to Lieutenant Colonel James Rhodes and Mr Tony Stark, who is, of course, a national treasure.  Thank you Lieutenant Colonel, for such and exceptionally distinguished performance. You deserve this."
+994,Rhodey,Thank you sir.
+995,Stern,"Mr Stark. Thank you for such as exceptionally distinguished performance. You deserve this.  Oh, sorry. Funny how annoying a little prick can be, isn’t it? Let’s get a photo."
+996,Agent Coulson,"Sir, we’ve found it."

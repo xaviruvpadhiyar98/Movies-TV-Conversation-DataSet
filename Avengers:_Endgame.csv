@@ -1,0 +1,1250 @@
+,Character,Dialog
+0,CLINT BARTON,"Okay, hold on. Don't shoot. You see where you're going?"
+1,LILA BARTON,Mhm.
+2,CLINT BARTON,"Okay, now let's worry about how you get there."
+3,CLINT BARTON,Here. Can you see?
+4,LILA BARTON,Yeah.
+5,CLINT BARTON,You sure?
+6,LILA BARTON,Mhm.
+7,CLINT BARTON,How about now?
+8,CLINT BARTON,Alright. Ready your fingers.
+9,COOPER BARTON,Nice.
+10,LAURA BARTON,"Nice throw, kiddo."
+11,COOPER BARTON,You go.
+12,LAURA BARTON,"Hey, you guys want mayo or mustard, or both?"
+13,LILA BARTON,Who wants mayo on a hotdog?
+14,CLINT BARTON,Probably your brothers.
+15,CLINT BARTON,"Uh, two mustard, please! Thanks, mama."
+16,LAURA BARTON,Mayo or mustard?
+17,NATHANIEL BARTON,How about ketchup?
+18,LAURA BARTON,Ketchup?  I can do ketchup.
+19,CLINT BARTON,"Mind your elbow.  Hahaha! Good job, Hawkeye. Go get your arrow."
+20,LAURA BARTON,"Hey guys! Enough practice, soup's on!"
+21,CLINT BARTON,"Alright, we're coming; we're hungry.  Hey, babe! Babe? Babe? Boys? Boys? Laura?"
+22,NEBULA,Wrra!
+23,TONY STARK,You don't need to do that. Because uh... you're just holding position.  That's a goal. We're now one apiece.
+24,NEBULA,I would like to try again.
+25,TONY STARK,We're tied up. Feel the tension? It's fun.
+26,TONY STARK,That was terrible. Now you have a chance to win.
+27,TONY STARK,And... you've won. Congratulations.
+28,TONY STARK,Fair game. Good sport.  Have fun?
+29,NEBULA,It was fun.
+30,TONY STARK,"This thing on?  But it's now dead in the water. We're 1000 light years from the nearest 7-11. Oxygen will run out tomorrow. And that'll be it. And Pep, I ... I know I said no more surprises, but I was really hoping to pull off one last one. But it looks like... well you know what it looks like. Don't feel bad about this. I mean, if you grovel for a couple of weeks, and then move on with enormous guilt. I should probably lie down. Please know that... when I drift off, I will think about you. Because it's always you."
+31,TONY STARK,Couldn't stop him.
+32,STEVE ROGERS,Neither could I.
+33,TONY STARK,I lost the kid.
+34,STEVE ROGERS,"Tony, we lost."
+35,TONY STARK,"Is, uh...?"
+36,PEPPER POTTS,"Oh, my God! Oh, my God!"
+37,TONY STARK,It's okay.
+38,JAMES RHODES,It's been 23 days since Thanos came to Earth.
+39,NATASHA ROMANOFF,"World governments are in pieces. The parts that are still working are trying to take a census. And it looks like he did... he did exactly what he said he was gonna do. Thanos wiped out fifty percent, of all living creatures."
+40,TONY STARK,Where is he now? Where?
+41,STEVE ROGERS,We don't know. He just opened a portal and walked through.
+42,TONY STARK,What's wrong with him?
+43,ROCKET,"Oh, he's pissed. He thinks he failed. Which of course he did, but you know there's a lot of that's going around, ain't there?"
+44,TONY STARK,"Honestly, until this exact second, I thought you were a Build-A-Bear."
+45,ROCKET,Maybe I am.
+46,STEVE ROGERS,"We've been hunting Thanos for three weeks now. Deep Space scans, and satellites, and we got nothing. Tony, you fought him."
+47,TONY STARK,"Who told you that?  I didn't fight him. No, he wiped my face with a planet while the Bleecker Street Magician gave away the store. That's what happened. There was no fight."
+48,STEVE ROGERS,Okay.
+49,TONY STARK,He's unbeatable.
+50,STEVE ROGERS,"Did he give you any clues, any coordinates, anything?"
+51,TONY STARK,Pfft! I saw this coming a few years back. I had a vision. I didn't wanna believe it. Thought I was dreaming.
+52,STEVE ROGERS,"Tony, I'm gonna need you to focus."
+53,TONY STARK,I need to shave. And I believe I remember telling all youse -
+54,RHODEY,"Tony, Tony, Tony!"
+55,TONY STARK,Alive and otherwise what we needed was a suit of armor around the world! Remember that? Whether it impacted our precious freedoms or not- that's what we needed!
+56,STEVE ROGERS,"Well, that didn't work out, did it?"
+57,TONY STARK,"I said, ""we'd lose"". You said, ""We'll do that together too."" And guess what, Cap? We lost. And you weren't there. But that's what we do, right? Our best work after the fact? We're the Avengers, we're the Avengers. Not the Prevengers."
+58,RHODEY,Okay.
+59,TONY STARK,Right?
+60,RHODEY,You made your point. Just sit down.
+61,TONY STARK,Okay...
+62,RHODEY,Okay?
+63,TONY STARK,"Nah, nah. Here's my point. You know what?"
+64,RHODEY,"Tony, you're sick."
+65,TONY STARK,"She's great, by the way."
+66,RHODEY,Sit down. Sit.
+67,TONY STARK,"We need you. You're new blood. Bunch of tired old mules!  I got nothing for you, Cap! I got no coordinates, no clues, no strategies, no options. Zero. Zip. Nada. No trust. Liar."
+68,TONY STARK,"Here, take this. You find him, and you put that on. You hide."
+69,STEVE ROGERS,Tony!
+70,TONY STARK,I'm fine. I...
+71,RHODEY,Bruce gave him a sedative. He's gonna probably be out for the rest of the day.
+72,CAROL DANVERS,You guys take care of him. And I'll bring him a Xorrian Elixir when I come back.
+73,NATASHA ROMANOFF,Where are you going?
+74,CAROL DANVERS,To kill Thanos.
+75,NATASHA ROMANOFF,"Hey, you know, we usually work as a team here, and between you and I, morale's a little fragile."
+76,STEVE ROGERS,"We realize up there is more your territory, but this is our fight too."
+77,RHODEY,You even know where he is?
+78,CAROL DANVERS,I know people who might.
+79,NEBULA,"Don't bother. I can tell you where Thanos is. Thanos spent a long time trying to perfect me. And when he worked, he talked about his great plan. Even disassembled, I wanted to please him. I'd ask ""where would we go once his plan was complete?"". His answer was always the same: ""To the Garden."""
+80,RHODEY,"That's cute, Thanos has a retirement plan."
+81,STEVE ROGERS,So where is he?
+82,ROCKET,"When Thanos snapped his fingers, Earth became ground zero for a power surge of ridiculously cosmic proportions. No one's ever seen anything like it... Until two days ago.  On this planet."
+83,NEBULA,Thanos is there.
+84,NATASHA ROMANOFF,He used the stones again.
+85,BRUCE BANNER,"Hey, hey, hey. We'd be going in short-handed, you know."
+86,RHODEY,"Look, he's still got the stones, so..."
+87,CAROL DANVERS,So let's get him... Use them to bring everyone back.
+88,RHODEY,Just like that?
+89,STEVE ROGERS,"Yeah, just like that."
+90,NATASHA ROMANOFF,Even if there's a small chance that we can undo this... I mean we owe it to everyone who's not in this room to try.
+91,BRUCE BANNER,"If we do this, how do we know it's gonna end any differently than it did before?"
+92,CAROL DANVERS,"Because before, you didn't have me."
+93,RHODEY,"Hey, new girl, everyone here is about that superhero life. And if you don't mind my asking, where the hell have you been all this time?"
+94,CAROL DANVERS,"There are a lot of other planets in the universe. And unfortunately, they didn't have you guys."
+95,THOR,I like this one.
+96,STEVE ROGERS,Let's go get this son of a bitch.
+97,[Title Screen,Avengers: Endgame]
+98,ROCKET,"Okay, who here hasn't been to space?"
+99,RHODEY,Why?
+100,ROCKET,You better not throw up on my ship.
+101,NEBULA,Approaching jump in 3... 2... 1!
+102,CAROL DANVERS,I'll head down for recon.
+103,NATASHA ROMANOFF,"This is gonna work, Steve."
+104,STEVE ROGERS,I know it will.
+105,STEVE ROGERS,Cause I don't know what I'm going to do if it doesn't.
+106,CAROL DANVERS,"No satellites, no ships, no armies, no ground defenses of any kind. It's just him."
+107,NEBULA,And that's enough.
+108,ROCKET,Oh no.
+109,STEVE ROGERS,Where are they?
+110,CAROL DANVERS,Answer the question!
+111,THANOS,"The universe required correction. After that, the stones served no purpose, beyond temptation."
+112,BRUCE BANNER,You murdered trillions!
+113,THANOS,You should be grateful.
+114,NATASHA ROMANONFF,Where are the Stones?
+115,THANOS,Gone. Reduced to atoms.
+116,BRUCE BANNER,You used them two days ago!
+117,THANOS,I used the stones to destroy the stones. It nearly killed me. But the work is done. It always will be.  I am... inevitable.
+118,RHODEY,"We have to tear this place apart, he-he-he has to be lying."
+119,NEBULA,My father is many things. A liar is not one of them.
+120,THANOS,"Ah, thank you, daughter.  Perhaps I treated you too harshly."
+121,ROCKET,What... What did you do?
+122,THOR,I went for the head.
+123,JOE RUSSO,"So I, uh... Went on a date the other day. It's the first time in five years, you know? I'm sitting there at dinner... I didn't even know what to talk about."
+124,STEVE ROGERS,What did you talk about?
+125,JOE RUSSO,"Same old crap, you know? How things have changed, and... my job, his job... How much we miss the Mets. And then things get quiet... He cried as they were serving the salads."
+126,JIM STARLIN,What about you?
+127,JOE RUSSO,"I cried... just before dessert. But I'm seeing him again tomorrow, so..."
+128,STEVE ROGERS,"That's great. You did the hardest part. You took the jump, you didn't know where you were gonna come down. And that's it. That's those little brave baby steps we gotta take. To try and become whole again, try and find purpose. I went in the ice in '45 right after I met the love of my life. Woke up 70 years later. You gotta move on. Gotta to move on. The world is in our hands. It's left to us guys, and we got to do something with it. Otherwise... Thanos should have killed all of us."
+129,[Screen Title,SAN FRANCISCO]
+130,SCOTT LANG,What the hell?
+131,SCOTT LANG,Hope?
+132,SCOTT LANG,Kid! Hey kid!
+133,SCOTT LANG,What the hell happened here?
+134,SCOTT LANG,"No. Please. Please, please.  Excuse me, sorry. No, Cassie, no."
+135,SCOTT LANG,
+136,SCOTT LANG,What?
+137,SCOTT LANG,Cassie?
+138,CASSIE LANG,Dad?
+139,SCOTT LANG,You're so big!
+140,ROCKET,"Yeah, we boarded that highly suspect warship Danvers pinged."
+141,"[The camera cuts showing a few of the Avengers in holographic calls from the left to right, respectively","Nebula and Rocket Raccoon, Okoye, Danvers with a tomboyish haircut, and Rhodes.]"
+142,NEBULA,It was an infectious garbage scowl.
+143,ROCKET,"So, thanks for the hot tip."
+144,CAROL DANVERS,"Well, you were closer."
+145,ROCKET,Yeah. And now we smell like garbage.
+146,NATASHA ROMANOFF,You get a reading on those tremors?
+147,OKOYE,It was a mild subduction under the African plate.
+148,NATASHA ROMANOFF,Do we have a visual? How are we handling it?
+149,OKOYE,"Nat, it's an earthquake under the ocean. We handle it by not handling it."
+150,NATASHA ROMANOFF,"Carol, are we seeing you here next month?"
+151,CAROL DANVERS,Not likely.
+152,ROCKET,"What, you gonna get another haircut?"
+153,CAROL DANVERS,"Listen fur-face, I'm covering a lot of territory. The things that are happening on Earth, are happening everywhere, on thousands of planets."
+154,ROCKET,"All right, all right, that's a good point. That's a good point."
+155,CAROL DANVERS,So you might not see me for a long time.
+156,NATASHA ROMANOFF,"Alright. Uh, well. This channel is always active. So, if anything goes sideways... anyone's making trouble where they shouldn't... comes through me."
+157,ROCKET,Okay.
+158,NATASHA ROMANOFF,Alright.
+159,CAROL DANVERS,
+160,NATASHA ROMANOFF,Where are you?
+161,RHODEY,Mexico. The Federales found a room full of bodies. Looks like a bunch of cartel guys. Never even had the chance to get their guns off.
+162,NATASHA ROMANOFF,It's probably a rival gang.
+163,RHODEY,"Except it isn't.  I gotta tell you, there's a part of me that doesn't even want to find him."
+164,NATASHA ROMANOFF,Will you find out where he's going next?
+165,RHODEY,Nat...
+166,NATASHA ROMANOFF,Please.
+167,RHODEY,
+168,STEVE ROGERS,You know I'd offer to cook you dinner but you seem pretty miserable already.
+169,NATASHA ROMANOFF,You here to do your laundry?
+170,STEVE ROGERS,And to see a friend.
+171,NATASHA ROMANOFF,"Clearly, your friend is fine."
+172,STEVE ROGERS,You know I saw a pod of whales when I was coming up the bridge.
+173,NATASHA ROMANOFF,In the Hudson?
+174,STEVE ROGERS,"There's fewer ships, cleaner water."
+175,NATASHA ROMANOFF,"You know, if you're about to tell me to look on the bright side. Um... I'm about you to hit you in the head with a peanut butter sandwich."
+176,STEVE ROGERS,Sorry. Force of habit.
+177,STEVE ROGERS,"You know, I keep telling everybody they should move on and... grow. Some do. But not us."
+178,NATASHA ROMANOFF,"If I move on, who does this?"
+179,STEVE ROGERS,Maybe it doesn't need to be done.
+180,NATASHA ROMANOFF,I used to have nothing. And then I got this. This job... this family. And I was... I was better because of it. And even though... they're gone... I'm still trying to be better.
+181,STEVE ROGERS,I think we both need to get a life.
+182,NATASHA ROMANOFF,You first.
+183,SCOTT LANG,"Oh! Hi. Hi! Is anyone home? This is Scott Lang. We met a few years ago, at the airport? In Germany? I got really big, and I had my mask on. You wouldn't recognize me."
+184,STEVE ROGERS,Is this an old message?
+185,NATASHA ROMANOFF,It's the front gate.
+186,SCOTT LANG,"Ant-Man? Ant-Man, I know you know that. I need to talk to you guys."
+187,STEVE ROGERS,Scott. Are you okay?
+188,SCOTT LANG,Yeah. I'm fine.
+189,SCOTT LANG,Have you ever studied Quantum Physics?
+190,NATASHA ROMANOFF,Only to make conversation.
+191,SCOTT LANG,"Alright. So... five years ago, right before Thanos, I was in a place called the Quantum Realm. The Quantum Realm is like its own microscopic universe. To get in there, you have to be incredibly small. Hope, she's my... She was my...  She was supposed to pull me out. And then Thanos happened, and I got stuck in there."
+192,NATASHA ROMANOFF,I'm sorry. That must've been a very long five years.
+193,SCOTT LANG,"Yeah, but that's just it. It wasn't. For me, it was five hours."
+194,SCOTT LANG,"See, the rules of the Quantum Realm aren't like they are up here. Everything is unpredictable. Is that anybody's sandwich? I'm starving."
+195,STEVE ROGERS,"Scott, what are you talking about?"
+196,SCOTT LANG,"What I'm saying is, time works differently in the Quantum Realm. The only problem is right now, we don't have a way to navigate it. But what if we did? I can't stop thinking about it. What if, we could somehow control the chaos, and we could navigate it? What if there was a way to enter the Quantum Realm at a certain point in time but then exit at another point in time? Like... Like before Thanos."
+197,STEVE ROGERS,"Wait, are you talking about a time machine?"
+198,SCOTT LANG,"No. No, of course not. No, not a time machine. It's more like a... Yeah, a time machine. I know it's crazy. But I can't stop thinking about it. There's gotta be some way... There's gotta be...some w... it's crazy."
+199,NATASHA ROMANOFF,"Scott, I get e-mails from a raccoon, so nothing sounds crazy anymore."
+200,SCOTT LANG,So who do we talk to about this?
+201,TONY STARK,Maguna? Morgan H. Stark. You want some lunch?
+202,MORGAN STARK,Define lunch or be disintegrated.
+203,TONY STARK,"Okay, You should not be wearing that, okay? That is part of a special anniversary gift I'm making for Mom."
+204,MORGAN STARK,Okay.
+205,TONY STARK,There you go. Are you thinking about lunch? I can give you a handful of crickets on a bed of lettuce.
+206,MORGAN STARK,No.
+207,TONY STARK,That's what you want. How did you find this?
+208,MORGAN STARK,Garage.
+209,TONY STARK,Really? Were you looking for it?
+210,MORGAN STARK,"No. I found it, though."
+211,TONY STARK,"You like going to the garage, huh? So does daddy. It's fine, actually. Your mom never wears anything I buy her."
+212,SCOTT LANG,"Now, we know what it sounds like..."
+213,STEVE ROGERS,"Tony, after everything you've seen, is anything really impossible?"
+214,TONY STARK,"Quantum fluctuation messes with the Planck Scale, which then triggers the Deutsch Proposition. Can we agree on that?"
+215,STEVE ROGERS,Thank you.
+216,TONY STARK,"In Layman's terms, it means you're not coming home."
+217,SCOTT LANG,I did.
+218,TONY STARK,"No, you accidentally survived. It's a billion to one cosmic fluke. And now you wanna pull off a... What do you call it?"
+219,SCOTT LANG,A time heist?
+220,TONY STARK,"Yeah, a time heist. Of course, why didn't we think of this before? Oh, because it's laughable? Because it's a pipedream?"
+221,SCOTT LANG,The Stones are in the past. We can go back and get them.
+222,NATASHA ROMANOFF,We can snap our own fingers. We can bring everyone back.
+223,TONY STARK,"Or screw it up worse than he already has, right?"
+224,STEVE ROGERS,I don't believe we would.
+225,TONY STARK,"Gotta say, sometimes I miss that giddy optimism. However, high hopes won't help if there's no logical, tangible way for me to safely execute said time heist. I believe the most likely outcome would be our collective demise."
+226,SCOTT LANG,"Not if we strictly follow the rules of time travel. That means no talking to our past selves, no betting on sporting events -"
+227,TONY STARK,"I'm gonna stop you right there, Scott. Are you seriously telling me that your plan to save the universe is based on Back To The Future?"
+228,SCOTT LANG,No.
+229,TONY STARK,Good. You had me worried there. 'Cause that'd be horse shit. That's not how quantum physics works.
+230,NATASHA ROMANOFF,Tony... We have to take a stand.
+231,TONY STARK,"We did stand. And yet, here we are."
+232,SCOTT LANG,"I know you got a lot on the line. You got a wife, a daughter. But I lost someone very important to me. A lot of people did.  And now, now we have a chance to bring her back. To bring everyone back. And you're telling me that won't even..."
+233,TONY STARK,"That's right, Scott, I won't even. I got a kid."
+234,MORGAN STARK,Mommy told me to come and save you.
+235,TONY STARK,"Good job. I'm saved.  I wish you'd come here to ask me something else. Anything else. Honestly, I... I missed you guys, it was... Oh, and table's set for six."
+236,STEVE ROGERS,"Tony, I get it. And I'm happy for you, I really am. But this is a second chance."
+237,TONY STARK,"I got my second chance right here, Cap. I can't roll the dice again. If you don't talk shop, you can stay for lunch."
+238,NATASHA ROMANOFF,He's scared.
+239,STEVE ROGERS,He's not wrong.
+240,SCOTT LANG,"Yeah, but I mean, what are we gonna do? We need him. What, are we gonna stop?"
+241,STEVE ROGERS,"No, I wanna do it right. We're gonna need a really big brain."
+242,SCOTT LANG,Bigger than his?
+243,BRUCE BANNER,"Come on, I feel like I'm the only one eating.  Try some of that. Have some eggs."
+244,SCOTT LANG,I'm so confused.
+245,BRUCE BANNER,These are confusing times.
+246,SCOTT LANG,"Right. No, no, that's not what I meant."
+247,BRUCE BANNER,"No, I get it. I'm kidding! I know. It's crazy. I'm wearing shirts now."
+248,SCOTT LANG,Yeah! Wh...How? Why?
+249,BRUCE BANNER,"Five years ago, we got our asses beaten. Except it was worse for me. Because I lost twice. First, Hulk lost, then Banner lost. Then, we all lost."
+250,NATASHA ROMANOFF,"No one blamed you, Bruce."
+251,BRUCE BANNER,"I did. For years, I've been treating the Hulk like he's some kind of disease, something to get rid of. But then I started looking at him as the cure. Eighteen months in a gamma lab. I put the brains and the brawn together. And now look at me. Best of both worlds..."
+252,GIRL,"Excuse me, Mr. Hulk?"
+253,BRUCE BANNER,Yes?
+254,GIRL,Can we get a photo?
+255,BRUCE BANNER,"100%, little person. Come on, step up.  You mind?"
+256,SCOTT LANG,"Oh, yeah."
+257,BRUCE BANNER,"Thanks,"
+258,BRUCE BANNER,Did you get that?
+259,SCOTT LANG,Don't you wanna grab one with me? I'm Ant-Man.
+260,SCOTT LANG,"They're Hulk fans, they don't know Ant-Man. Nobody does."
+261,BRUCE BANNER,"Wait, no, no, he feels bad. No, he wants you to...he wants to..."
+262,BOY,Stranger Danger.
+263,SCOTT LANG,He's even saying no he doesn't. I get it. I don't want it either.
+264,BRUCE BANNER,"But, come on, the kid! But he...but you..."
+265,SCOTT LANG,I don't want a picture with them.
+266,BRUCE BANNER,Sorry. They said they'd do it.
+267,SCOTT LANG,I don't want it anymore.
+268,BRUCE BANNER,"No, no...you feel bad."
+269,SCOTT LANG,Just take the goddamn phone.
+270,GIRL,"Thank you, Mr. Hulk."
+271,BRUCE BANNER,"No, it's great kids. Thank you very much.  Hulk out!"
+272,STEVE ROGERS,Bruce.
+273,BRUCE BANNER,Dab!
+274,STEVE ROGERS,Bruce.
+275,BRUCE BANNER,Listen to your Mom. She knows better.
+276,STEVE ROGERS,About we were saying...
+277,BRUCE BANNER,"Right. The whole time travel do-over? Guys, it's outside my area of expertise."
+278,NATASHA ROMANOFF,"Well, you pulled this off. I remember a time when that seemed pretty impossible time, too."
+279,TONY STARK,"Look at a mod inspiration, let me see what check out. So, recommend one last sim before we pack it in for the night. This time, in the shape of a mobius strip, inverted, please."
+280,F.R.I.D.A.Y,Processing...
+281,TONY STARK,"Give me that eigenvalue. That, particle factoring, and a spectral decomp. That will take a second."
+282,F.R.I.D.A.Y,Just a moment.
+283,TONY STARK,And don't worry if it doesn't pan out. I'm just kinda -
+284,F.R.I.D.A.Y,Model rendered.
+285,TONY STARK,Shit!
+286,MORGAN STARK,Shit.
+287,TONY STARK,"What are you doing up, little mess?"
+288,MORGAN STARK,Shit.
+289,TONY STARK,"No, we don't say that. Only Mommy says that word. She coined it, it belongs to her."
+290,MORGAN STARK,Why you up?
+291,TONY STARK,"'Cause I got some important shit going on here.  What do you think? No, I got something on my mind. I got something on my mind."
+292,MORGAN STARK,Was it Juice Pops?
+293,TONY STARK,"Sure was. That's extortion. Great minds think alike. Juice Pops, exactly was on...  my mind."
+294,TONY STARK,"You done? Yeah, now you are.  That face goes there."
+295,MORGAN STARK,Tell me a story.
+296,TONY STARK,"A story... Once upon a time, Maguna went to bed. The end."
+297,MORGAN STARK,That's a horrible story.
+298,TONY STARK,"Come on, that's your favorite story. I love you tons."
+299,MORGAN STARK,I love you 3000.
+300,TONY STARK,"Go to bed. Or I'll sell all your toys. Night, night."
+301,TONY STARK,"Not that it's a competition, but she loves me 3000. You were somewhere on the low 6 to 900 range."
+302,TONY STARK,What are you reading?
+303,PEPPER POTTS,"Oh, it's just a book on composting."
+304,TONY STARK,What's new with composting?
+305,PEPPER POTTS,Just -
+306,TONY STARK,"I figured it out, by the way."
+307,PEPPER POTTS,"You know, just so we're talking about the same thing -"
+308,TONY STARK,Time travel.
+309,PEPPER POTTS,"What? Wow... That's amazing, and... terrifying."
+310,TONY STARK,That's right.
+311,PEPPER POTTS,We got really lucky.
+312,TONY STARK,"Yeah, I know."
+313,PEPPER POTTS,A lot of people didn't.
+314,TONY STARK,"No, I can't help everybody."
+315,PEPPER POTTS,It sort a seems like you can.
+316,TONY STARK,"Not if I stop. I can put a pin in it right now, and stop."
+317,PEPPER POTTS,"Tony, trying to get you to stop has been one of the few failures of my life."
+318,TONY STARK,I sometimes feel I should put it in a locked box and drop it at the bottom of a lake... go to bed.
+319,PEPPER POTTS,But would you be able to rest?
+320,BRUCE BANNER,"Okay, here we go. Time travel test number one. Scott, fire up the uhhh... the van thing."
+321,STEVE ROGERS,"Breakers are set, emergency generators are on standby."
+322,BRUCE BANNER,"Good. 'Cause if we blow the grid, I don't wanna lose Tiny here in the 1950's."
+323,SCOTT LANG,Excuse me?
+324,NATASHA ROMANOFF,He's kidding.  You can't say things like that!
+325,BRUCE BANNER,Just... It was a bad joke.
+326,NATASHA ROMANOFF,"You were kidding, right?"
+327,BRUCE BANNER,"We're good! Get your helmet on, Scott. I'm gonna send you back a week, let you walk around for an hour, then bring you back in 10 seconds. Makes sense?"
+328,SCOTT LANG,Perfectly not confusing
+329,STEVE ROGERS,"Good luck, Scott. You got this."
+330,SCOTT LANG,"You're right. I do, Captain America."
+331,BRUCE BANNER,On the count of three. 3... 2... 1!
+332,TEEN SCOTT LANG,"Uh, guys? This...this doesn't feel right."
+333,STEVE ROGERS,What is this?
+334,BRUCE BANNER,What's going on?
+335,NATASHA ROMANOFF,That...who is that?
+336,BRUCE BANNER,Hold on.
+337,NATASHA ROMANOFF,Is that Scott?
+338,TEEN SCOTT LANG,"Yes, it's Scott!"
+339,OLD SCOTT LANG,Ow! My back!
+340,STEVE ROGERS,What is this?
+341,BRUCE BANNER,Can I get a little space here.
+342,STEVE ROGERS,Yeah yeah. Can you bring him back?
+343,BRUCE BANNER,I'm working on it!
+344,STEVE ROGERS,It's a baby.
+345,BRUCE BANNER,It's Scott.
+346,STEVE ROGERS,As a baby!
+347,BRUCE BANNER,He'll grow.
+348,STEVE ROGERS,Bring Scott back!
+349,BRUCE BANNER,"When I say kill the power, kill the power."
+350,NATASHA ROMANOFF,Oh my god.
+351,BRUCE BANNER,And... Kill it!
+352,SCOTT LANG,Somebody peed my pants.
+353,NATASHA ROMANOFF,Oh thank god.
+354,SCOTT LANG,"But I don't know if it was ""baby"" me or ""old"" me...Or just ""me"" me."
+355,BRUCE BANNER,Time travel!
+356,BRUCE BANNER,What? I..I see this as an absolute win!
+357,TONY STARK,Why the long face? Let me guess: He turned into a baby.
+358,STEVE ROGERS,"Among other things, yeah. What are you doing here?"
+359,TONY STARK,"That's the EPR Paradox. Instead of pushing Lang through time, you might've wound up pushing time through Lang. It's tricky. Dangerous. Somebody should've cautioned you against it."
+360,STEVE ROGERS,You did.
+361,TONY STARK,"Oh, did I?  Turns out, resentment is corrosive, and I hate it."
+362,STEVE ROGERS,Me too.
+363,TONY STARK,"We got a shot at getting these stones, but I gotta tell you my priorities: Bring back what we lost? I hope, yes. Keep what I got? I have to, at all costs. And... maybe not die trying will be nice."
+364,STEVE ROGERS,Sounds like a deal.
+365,STEVE ROGERS,Tony...
+366,TONY STARK,"Why? He made it for you.  Plus, honestly I have to get it out of the garage before Morgan takes it sledding."
+367,STEVE ROGERS,"Thank you, Tony."
+368,TONY STARK,"Will you keep that a little quiet? Didn't bring one for the whole team.  ...We are getting the whole team, yeah?"
+369,STEVE ROGERS,We're working on that right now.
+370,ROCKET,"Hey, humie! Where's Big Green?"
+371,SCOTT LANG,"Uh, Kitchen, I think.  That's awesome."
+372,NEBULA,"Rhodey, careful on re-entry. There's an idiot on the landing zone."
+373,SCOTT LANG,"Oh, God!"
+374,RHODEY,"What's up, regular sized man?"
+375,ROCKET,Kind of a step down from a from a golden palace for an Avenger highness and whatnot.
+376,BRUCE BANNER,"Hey, have a little compassion, pal. First they've lost Asgard, then half the people. They're probably just happy to have a home."
+377,VALKYRIE,You shouldn't have come!
+378,BRUCE BANNER,"Ah, Valkyrie! Great to see you, Angry Girl."
+379,VALKYRIE,I think I liked you better either of the other ways.
+380,BRUCE BANNER,This is Rocket.
+381,ROCKET,How you doin'?
+382,VALKYRIE,He won't see you.
+383,BRUCE BANNER,"That bad, huh?"
+384,VALKYRIE,"We only see him once a month, when he comes for...  ... supplies."
+385,BRUCE BANNER,It's that bad.
+386,VALKYRIE,Yeah.
+387,ROCKET,What the...  Woo! Something died in here.
+388,BRUCE BANNER,Hello? Thor?
+389,THOR,Are you here about the cable?
+390,THOR,"The Cinemax ran out about two weeks ago, and the sports were all kind of fuzzy."
+391,BRUCE BANNER,Thor?
+392,ROCKET,"No, I'm good. I'm good. That's not necessary."
+393,THOR,"Hulk, you know my friends, Miek, Korg, right?"
+394,KORG,Hey boys!
+395,BRUCE BANNER,"Hey guys, long time no see."
+396,KORG,"Beer's on the bucket. Feel free to log on to the Wi-Fi. No password, obviously.  Thor, he's back. The kid on the TV that called me a dickhead again."
+397,THOR,NoobMaster.
+398,KORG,"Yeah, NoobMaster69 called me a dickhead."
+399,THOR,"Noobmaster? Yeah, it's Thor again. You know, the God of Thunder? Listen, buddy. If you don't log off this game immediately, I am gonna fly over to your house, come down to that basement you're hiding in, rip off your arms AND SHOVE THEM UP YOUR BUTT!!! Oh, that's right. Yes, go cry to your father, you little weasel!"
+400,KORG,"Thank you, Thor."
+401,THOR,"Let me know if he bothers you again, okay?"
+402,KORG,Thank you very much. I will.
+403,THOR,"So you guys want a drink? What are you drinking? We have beer, tequila, all sorts of things."
+404,BRUCE BANNER,"Buddy, you all right?"
+405,THOR,"​​​​​​Yes, I'm fine! Why, don't I look all right?"
+406,ROCKET,You look like melted ice cream.
+407,THOR,"So, what's up?"
+408,BRUCE BANNER,We need your help. There might be a chance we could fix everything.
+409,THOR,"What, like the cable?  Cause that's been driving me bananas for weeks."
+410,BRUCE BANNER,Like Thanos.
+411,THOR,Don't say that name.
+412,KORG,"Um, yeah. We don't actually say that name in here."
+413,BRUCE BANNER,"Now, I know that... guy might scare you."
+414,THOR,"Why would I be? Why would, why would I be scared of that guy? I'm the one who killed that guy, remember? Anyone else here killed that guy? Nope. Didn't think so. Korg, why don't you, tell everybody who chopped Thanos' big head off."
+415,KORG,Umm... Stormbreaker?
+416,THOR,"Now, who's swingin' Stormbreaker?"
+417,BRUCE BANNER,"I get it. You're in a rough spot, okay? I've been there myself. You wanna know who helped me out of it?"
+418,THOR,I don't know. Is it... Natasha?
+419,BRUCE BANNER,It was you. You helped me.
+420,THOR,"The ones that are left, anyway."
+421,BRUCE BANNER,I think we can bring them back.
+422,THOR,"Stop. stop, okay?  I know you think I'm down here wallowing in my own self-pity, waiting to be rescued and and saved. But I'm fine, okay? We're fine, aren't we?"
+423,KORG,"Nah, all good here, mate."
+424,THOR,"So, whatever it is that you're offering, we're not into it, don't care, couldn't care less. Goodbye."
+425,BRUCE BANNER,"We need you, pal."
+426,ROCKET,There's beer on the ship.
+427,THOR,What kind?
+428,[SCREEN TITLE,TOKYO]
+429,THUG #1,あいつだ! アキヒコさんを！
+430,AKIHIKO,てめえ なぜこんなことをする? 俺たちてめえになにもしてねぇだろ！
+431,RONIN,地球の半分 サノスにやられた... お前はなぜ無事なの…
+432,RONIN,お前はもう十分殺しただろ You're done hurting people.
+433,AKIHIKO,
+434,AKIHIKO,死ね!
+435,AKIHIKO,待て! 助けてくれ! お前に何でもやる! 何が欲しい?
+436,RONIN,What I want... You can't give me.
+437,CLINT BARTON,You shouldn't be here.
+438,NATASHA ROMANOFF,Neither should you.
+439,CLINT BARTON,I've got a job to do.
+440,NATASHA ROMANOFF,Is that what you're calling this? Killing all these people isn't gonna bring your family back.
+441,NATASHA ROMANOFF,"We found something. A chance, maybe..."
+442,CLINT BARTON,Don't...
+443,NATASHA ROMANOFF,Don't what?
+444,CLINT BARTON,...don't give me hope.
+445,NATASHA,I'm sorry I couldn't give it to you sooner.
+446,TONY STARK,"Ratchet, How's it going?"
+447,ROCKET,"It's Rocket. Take it easy. You're only a genius on Earth, pal."
+448,RHODEY,Time travel suit? Not bad.
+449,SCOTT LANG,"Hey, hey, hey! Easy, easy!"
+450,BRUCE BANNER,I'm being very careful.
+451,SCOTT LANG,"No, you're being very Hulky."
+452,BRUCE BANNER,I'm being careful.
+453,SCOTT LANG,"These are Pym Particles, alright? And ever since Hank Pym got snapped out of existence, this is it. This is what we have. We're not making any more."
+454,RHODEY,"Scott, calm down."
+455,SCOTT LANG,Sorry. We've got enough for one round trip each. That's it. No do-overs. Plus two test runs.  One test run.
+456,SCOTT LANG,All right. I'm not ready for this.
+457,CLINT BARTON,I'm game. I'll do it.
+458,BRUCE BANNER,"Clint, now you're gonna feel a little discombobulated from the chronoshift. Don't worry about it."
+459,RHODEY,"Wai-Wait a second, let me ask you something. If we can do this, you know, go back in time, why don't we just find baby Thanos, you know, and..."
+460,BRUCE BANNER,"First of all, that's horrible..."
+461,RHODEY,It's Thanos.
+462,BRUCE BANNER,"...And secondly, time doesn't work that way. Changing the past doesn't change the future."
+463,SCOTT LANG,"Look, we go back, we get the stones before Thanos gets them... Thanos doesn't have the stones. Problem solved."
+464,CLINT BARTON,Bingo.
+465,NEBULA,That's not how it works.
+466,CLINT BARTON,"Well, that's what I heard."
+467,BRUCE BANNER,What? By who? Who told you that?
+468,RHODEY,"Star Trek, Terminator, TimeCop, Time After Time -"
+469,SCOTT LANG,Quantum Leap -
+470,RHODEY,"A Wrinkle in Time, Somewhere in Time -"
+471,SCOTT LANG,Hot Tub Time Machine -
+472,RHODEY,"Hot Tub Time Machine. Bill and Ted's Excellent Adventure. Basically, any movie that deals with time travel."
+473,SCOTT LANG,"Die Hard? No, it's not one..."
+474,RHODEY,This is known.
+475,BRUCE BANNER,"I don't know why everyone believes that, but that isn't true. Think about it: If you travel to the past, that past becomes your future. And your former present becomes the past. Which can't now be changed by your new future..."
+476,NEBULA,Exactly.
+477,SCOTT LANG,So... Back To The Future's a bunch of bullshit?
+478,BRUCE BANNER,"Alright, Clint. We're going in 3... 2... 1!"
+479,LILA BARTON,Cooper? Where are my headphones?
+480,CLINT BARTON,
+481,LILA BARTON,"Yeah, Dad?  Dad?"
+482,NATASHA ROMANOFF,"Hey, hey. Look at me. You okay?"
+483,CLINT BARTON,"Yeah, it worked. It worked."
+484,STEVE ROGERS,"Okay, so the ""how"" works. Now we gotta figure out the when and the where. Almost all of us has had an encounter with at least one of the six Infinity Stones."
+485,TONY STARK,Well I'd substitute the word encounter for damn well near been killed by one of the six Infinity Stones.
+486,SCOTT LANG,"I haven't, I don't even know what the hell you're all talking about"
+487,BRUCE BANNER,"Regardless, we only have enough Pym Particles for one round trip each, and these stones have been in a lot of different places throughout history."
+488,TONY STARK,"Our history. So, not a lot of convenient spots to just drop in."
+489,CLINT BARTON,Which means we have to pick our targets.
+490,TONY STARK,Correct.
+491,STEVE ROGERS,"Let's start with the Aether. Thor, what do you know?"
+492,NATASHA ROMANOFF,Is he asleep?
+493,RHODEY,"No, I'm pretty sure he's dead."
+494,THOR,"Where to start? Umm... The Aether, first, is not a stone, someone called it a stone before. It's more of a... an angry sludge thing, so... someones gonna need to amend that. Here's an interesting story though, many years ago... My grandfather had to hide the stones from the Dark Elves...  I'm not done yet, the only thing permanent in life is impermanence."
+495,TONY STARK,Awesome. Eggs? Breakfast?
+496,THOR,"I'd like a Bloody Mary, thank you."
+497,ROCKET,Quill said he stole the Power Stone from Morag.
+498,SCOTT LANG,Is that a person?
+499,ROCKET,Morag's a planet. Quill was a person.
+500,SCOTT LANG,A planet? Like in outer space?
+501,ROCKET,"Oh, look. It's like a little puppy, all happy and everything.  Do you wanna go to space? You wanna go to space, puppy? I'll get you to space."
+502,NEBULA,Thanos found the Soul Stone on Vormir.
+503,NATASHA ROMANOFF,What is Vormir?
+504,NEBULA,"A dominion of death, at the very center of Celestial existence. It's where... Thanos murdered my sister."
+505,SCOTT LANG,Not it.
+506,NATASHA ROMANOFF,That Time Stone guy...
+507,BRUCE BANNER,Doctor Strange.
+508,NATASHA ROMANOFF,"Yeah, what kind of doctor was he?"
+509,TONY STARK,Ear-nose-throat meets rabbit from a hat.
+510,BRUCE BANNER,"Nice place in the village, though."
+511,TONY STARK,Yeah. Sullivan Street.
+512,BRUCE BANNER,Hmm... Bleecker.
+513,NATASHA ROMANOFF,"Wait, he lived in New York?"
+514,TONY STARK,No. He lived in Toronto.
+515,NATASHA ROMANOFF,"Guys, if you pick the right year, there are three stones in New York."
+516,BRUCE BANNER,Shut the front door.
+517,STEVE ROGERS,"All right. We have a plan. Six Stones, three teams. One shot."
+518,STEVE ROGERS,"Five years ago, we lost. All of us. We lost friends... We lost family... We lost a part of ourselves. Today, we have a chance to take it all back. You know your teams, you know your missions. Get the stones, get them back. One round trip each. No mistakes. No do-overs. Most of us are going somewhere we know. But it doesn't mean we should know what to expect. Be careful. Look out for each other. This is the fight of our lives. And we're gonna win.  Whatever it takes. Good luck."
+519,ROCKET,He's pretty good at that.
+520,SCOTT LANG,Right?
+521,TONY STARK,"All right. You heard the man. Stroke those keys, jolly green."
+522,BRUCE BANNER,Tractors engaged.
+523,ROCKET,"You promise to bring that back in one piece, right?"
+524,CLINT BARTON,"Yeah, yeah, yeah, yeah. Okay. I'll do my best."
+525,ROCKET,"As promises go, that was pretty lame."
+526,NATASHA ROMANOFF,See you in a minute.
+527,STEVE ROGERS,"All right, we all have our assignments. Two Stones uptown, one Stone, down. Stay low. Keep an eye on the clock."
+528,STEVE ROGERS,Feel free to smash a few things along the way.
+529,BRUCE BANNER,"I think it's gratuitous, but whatever."
+530,THE ANCIENT ONE,I'd be careful going that way. We just had the floors waxed.
+531,BRUCE BANNER,"Ma'am, I'm looking for Doctor Strange."
+532,THE ANCIENT ONE,You're about... five years too early. Stephen Strange is currently performing surgery about twenty blocks that way. What do you want from him?
+533,BRUCE BANNER,"That, actually."
+534,THE ANCIENT ONE,Ah! I'm afraid not.
+535,BRUCE BANNER,"Sorry, but I wasn't asking."
+536,THE ANCIENT ONE,You don't wanna do this.
+537,BRUCE BANNER,"Ah, you're right, I don't.  But I need that stone, and I don't have time to beat it-"
+538,THE ANCIENT ONE,"Let's start over, shall we?"
+539,THOR,That's Jane.
+540,ROCKET,"All right. Here's the deal, Tubby: You're gonna charm her and I'm gonna poke her with this thing,  and extract the Reality Stone and get gone, lickety-split."
+541,THOR,"I'll be right back, okay? There's a wine cellar, that's just down there. My father used to fish huge barrel of ale. I'll see if the cellar has a couple of..."
+542,ROCKET,Hey! Hey! Aren't you drunk enough already?
+543,ROCKET,Who's the fancy broad?
+544,THOR,It's my Mother. She dies today.
+545,ROCKET,Oh. That's today?
+546,THOR,I can't do this. I can't do this. I shouldn't be here. I shouldn't have come.This was a bad idea.
+547,ROCKET,Come here.
+548,THOR,"No, no, no. I think I'm having...I'm having a panic attack. I shouldn't be here...this is...this is a bad-"
+549,ROCKET,Come here. Right here.
+550,ROCKET,"You think you're the only one who lost people? What do you think we're doing here? I lost the only family I ever had. Quill, Groot, Drax, the chick with the antenna, all gone. Now, I get you miss your Mom. But she's gone. Really gone. And there are plenty of people who are only kinda gone. But you can help them. So is it too much to ask that you brush the crumbs outta your beard, make schmoopy talk to Pretty Pants, and when she's not looking, suck out the Infinity Stone and help me get my family back?"
+551,THOR,Okay.
+552,ROCKET,Are you crying?
+553,THOR,No...Yes!
+554,ROCKET,Get it together! You can do this. You can do this. All right?
+555,THOR,"Yes, I can."
+556,ROCKET,Good.
+557,THOR,"I can do this. I can do it, I can't do this."
+558,ROCKET,"Alright, Heartbreaker. She's alone. This is our shot.  Thor? Thor! Aaagh!!!"
+559,RHODEY,"Alright. Bring it down low. Right on that line. That's it. Down, down."
+560,CLINT BARTON,"Hey, can we hurry it up?"
+561,NATASHA ROMANOFF,"Guys, chop-chop. Come on. We're on a clock."
+562,RHODEY,"All that, is really helpful.  Take care, okay?"
+563,NATASHA ROMANOFF,Yeah.
+564,RHODEY,Take that stone and come back. No messing around.
+565,CLINT BARTON,Hey. You got this.
+566,RHODEY,"Let's get it done. Yes, sir."
+567,NATASHA ROMANOFF,See you back.
+568,RHODEY,You guys watch each other's six.
+569,CLINT BARTON,Yeah.
+570,NEBULA,The coordinates for Vormir are laid in. All they have to do is not fall out.
+571,CLINT BARTON,It's a long way from Budapest.
+572,RHODEY,"Okay, so, uhh... We just wait around for this Quill guy to show up and then he leads us to the Power Stone, is that it?"
+573,NEBULA,Let's take cover. We're not the only ones in 2014 looking for the stones.
+574,RHODEY,"Wait a minute, what are you talking about right now? Who else is looking for these stones?"
+575,NEBULA,"My father, my sister... and me."
+576,RHODEY,And you? Where are you right now?
+577,GAMORA,You're welcome.
+578,NEBULA,I didn't ask for your help.
+579,GAMORA,"And yet, you always need it.  Get up. Father wants us back on the ship."
+580,NEBULA,Why?
+581,GAMORA,He's found an Infinity Stone.
+582,NEBULA,Where?
+583,GAMORA,On a planet called Morag.
+584,NEBULA,Father's plan is finally in motion.
+585,GAMORA,"One stone isn't six, Nebula."
+586,NEBULA,It’s a start.
+587,GAMORA,If he gets all of them...
+588,THANOS,Ronan's located the Power Stone. I'm dispatching you to his ship.
+589,GAMORA,He won't like that.
+590,THANOS,"His alternative is death, then.  Ronan's obsession clouds his judgement."
+591,NEBULA,"We will not fail you, Father."
+592,THANOS,"No, you won't."
+593,NEBULA,I swear...I will make you proud.
+594,RHODEY,"We just, wait around for this Quill guy to show up, and then he leads us to the Power Stone, is that it?"
+595,NEBULA,Let's take cover. We're not the only ones in 2014 looking for the stones.
+596,GAMORA,Who was that?
+597,NEBULA,I don't know...My head is splitting...I don't know...
+598,GAMORA,Her synaptic drive was probably damaged in battle.
+599,THANOS,Shhh...  Bring her to my ship.
+600,TONY STARK,"Got to hustle, Cap. Things look like they're just about wrapped up here."
+601,STEVE ROGERS,Got it. I'm approaching the elevator now.
+602,LOKI,If it's all the same to you... I'll have that drink now.
+603,TONY STARK,"All right, get him on his feet. We can all stand around posing up a storm later. By the way, feel free to clean up."
+604,TONY STARK,"Uh, Mr. Rogers. I almost forgot that that suit  did nothing for your ass."
+605,STEVE ROGERS,"No one asked you to look, Tony."
+606,TONY STARK,It's ridiculous
+607,SCOTT LANG,"I think you look great, Cap. As far as I'm concerned, that's America's ass."
+608,NATASHA ROMANOFF,"Uhh, magic wand?"
+609,TONY STARK,STRIKE team's coming to secure it.
+610,SITWELL,We can take that  off your hands.
+611,NATASHA ROMANOFF,By all means. Careful with that thing.
+612,CLINT BARTON,Unless you want your mind erased. And not in a fun way.
+613,SITWELL,We promise to be careful.
+614,SCOTT LANG,Who are these guys?
+615,TONY STARK,"They are SHIELD...Well, actually Hydra. But, we didn't know that yet."
+616,SCOTT LANG,"Seriously, you didn't? I mean...they look like bad guys."
+617,TONY STARK,"You're small, but you're talking loud."
+618,STEVE ROGERS,On my way down to coordinate search and rescue.
+619,LOKI,"I mean, honestly! How do you think you'll be..."
+620,THOR,Shut up.
+621,TONY STARK,"All right, you're up, little buddy.  There's our stone."
+622,SCOTT LANG,Alright. Flick me.
+623,HULK,Move.
+624,THOR,Whoa!
+625,TONY STARK,"Whoa, whoa. Hey! Buddy. What do you think? Maximum occupancy has been reached."
+626,THOR,Take the stairs.
+627,TONY STARK,Yeah.  Stop. Stop!
+628,HULK,Take the stairs! Hate the stairs!
+629,TONY STARK,"All right, Cap. I got our scepter in the elevator just passing the 80th floor."
+630,STEVE ROGERS,On it. Head to the lobby.
+631,TONY STARK,Alright. I'll see you there.
+632,SITWELL,"Evidence secure. We're en route to Dr. List. No. No hitches at all, Mr. Secretary."
+633,SITWELL,Captain. I thought you were coordinating search and rescue?
+634,STEVE ROGERS,Change of plans.
+635,RUMLOW,"Hey, Cap."
+636,STEVE ROGERS,Rumlow.  I just got a call from the Secretary. I'm gonna be running point on the scepter.
+637,SITWELL,Sir? I don't understand.
+638,STEVE ROGERS,We got word there may be an attempt to steal it.
+639,RUMLOW,"Sorry, Cap. I can't give you the scepter."
+640,SITWELL,I'm gonna have to call the Director.
+641,STEVE ROGERS,That's okay. Trust me.  Hail Hydra.
+642,HULK,So many stairs!
+643,TONY STARK,"Thumbelina, do you copy? I've got eyes on the prize. It's go-time."
+644,SCOTT LANG,Bombs away.  Is... is that Axe body spray?
+645,TONY STARK,"Yeah, I had a can just for emergencies. Relax. Can we focus, please?"
+646,SCOTT LANG,I'm going inside you. Now.
+647,ALEXANDER PIERCE,May I ask you where you're going?
+648,THOR,"To lunch and then Asgard. I'm sorry, you are?"
+649,TONY STARK,"Alexander Pierce. He's the man, one of the folks behind Nick Fury."
+650,ALEXANDER PIERCE,My friends call me Mr. Secretary. I'm gonna have to ask you to turn that prisoner over to me.
+651,THOR,Loki will be answering to Odin himself.
+652,ALEXANDER PIERCE,"Oh, he's gonna answer to us. Odin can have what's left. And I'm gonna need that case, that's been SHIELD property for over 70 years."
+653,HYDRA AGENT,"Hand over the case, Stark."
+654,TONY STARK,"All right, move it, Stuart Little. Things are getting dicey up here. Let's go."
+655,TONY STARK,"I'm not gonna argue who's got the higher authority here, all right?"
+656,SCOTT LANG,You promise me you won't die?
+657,TONY STARK,You're only giving me a mild cardiac dysrhythmia.
+658,SCOTT LANG,That doesn't sound mild.
+659,ALEXANDER PIERCE,I need the case.
+660,TONY STARK,I know you got a lotta pull. I'm just saying...
+661,ALEXANDER PIERCE,Okay. Then give me the case.
+662,TONY STARK,"Do it, Lang!"
+663,TONY STARK,Get your hands off!
+664,TONY STARK,Window's closing. Pull my pin!
+665,SCOTT LANG,Here goes!
+666,ALEXANDER PIERCE,Stark?
+667,THOR,Stark!
+668,ALEXANDER PIERCE,"Look, he's convulsing. Give him air! Medic!"
+669,TONY STARK,"MEDIC! You guys, some help!"
+670,ALEXANDER PIERCE,"Stark, you--- your chest machine?"
+671,TONY STARK,Good job. Meet me in the alley. I'm gonna grab a quick slice.
+672,HULK,NO STAIRS!!!!
+673,THOR,"You'll be fine, Stark. Stay with us! I'll try something, okay? I have no idea if it's gonna work."
+674,THOR,YES!
+675,TONY STARK,That worked a treat. That was so crazy!
+676,THOR,I had no idea if that was gonna work.
+677,TONY STARK,The case?
+678,THOR,"The case. It's, uhh... Where's the case? Where's Loki? Loki!"
+679,SCOTT LANG,"That wasn't supposed to happen, was it?"
+680,TONY STARK,"Oh, we blew it."
+681,THOR,Loki!?
+682,STEVE ROGERS,"Tony, what's going on? Tell me you found that cube.  Oh, you gotta be shitting me."
+683,STEVE ROGERS,I have eyes on Loki. 14th floor.
+684,STEVE ROGERS,I'm not Loki. And I don't wanna hurt you.
+685,STEVE ROGERS,I can do this all day.
+686,STEVE ROGERS,"Yeah, I know. I know."
+687,STEVE ROGERS,Where did you get this?
+688,STEVE ROGERS,Bucky... is... alive!
+689,STEVE ROGERS,What?
+690,STEVE ROGERS,That is America's ass.
+691,BRUCE BANNER,"Please, please!"
+692,THE ANCIENT ONE,"I'm sorry, I can't help you, Bruce. If I give up the Time Stone to help your Reality, I'm dooming my own."
+693,BRUCE BANNER,"With all due respect, I'm not sure the science really supports that."
+694,THE ANCIENT ONE,"The Infinity Stones create what you experience as the flow of time. Remove one stone and that flow splits.  Now, this may benefit your reality, but my new one…not so much. In this new branched Reality, without our chief weapon against the forces of darkness, our world will be overrun. Millions will suffer. So, tell me, Doctor, can your science prevent all that?"
+695,BRUCE BANNER,"No, but we can erase it. Because once we are done with the stones, we can return each one to its own timeline at the moment it was taken. So, chronologically,  it never left."
+696,THE ANCIENT ONE,"But you are leaving out the most important part. In order to return the stones, you have to survive."
+697,BRUCE BANNER,We will. I will. I promise.
+698,THE ANCIENT ONE,I can't risk this Reality on a promise. It is the duty of the Sorcerer Supreme to protect the Time Stone.
+699,BRUCE BANNER,"Then, why the hell did Strange give it away?"
+700,THE ANCIENT ONE,What did you say?
+701,BRUCE BANNER,"Strange, he gave it away. He gave it to Thanos."
+702,THE ANCIENT ONE,Willingly?
+703,BRUCE BANNER,Yes!
+704,THE ANCIENT ONE,...Why?
+705,BRUCE BANNER,I have no idea. Maybe he made a mistake.
+706,THE ANCIENT ONE,Or I did.  Strange is meant to be the best of us.
+707,BRUCE BANNER,So he must have done it for a reason.
+708,THE ANCIENT ONE,I fear you might be right.
+709,BRUCE BANNER,Thank you.
+710,THE ANCIENT ONE,"I'm counting on you, Bruce. We all are."
+711,THANOS,Run diagnostics. Show me her memory file.
+712,EBONY MAW,"Sire, the file appears entangled. It was a memory, but not hers. There's another consciousness sharing her network...another Nebula."
+713,THANOS,Impossible.
+714,EBONY MAW,This duplicate carries a time stamp... from nine years in the future.
+715,THANOS,Where is this other Nebula?
+716,EBONY MAW,In our solar system. On Morag.
+717,THANOS,Can you access her?
+718,EBONY MAW,Yes. The two are linked.
+719,THANOS,Search the duplicate's memories for Infinity Stones.
+720,BRUCE BANNER,And these stones have been in a lot of different places throughout history.
+721,TONY STARK,"Our history. So, not a lot of convenient spots to just drop in."
+722,CLINT BARTON,Which means we have to pick our targets.
+723,TONY STARK,Correct.
+724,THANOS,Freeze image.
+725,GAMORA,Terrans.
+726,THANOS,"Avengers. Unruly wretches. What's that reflection? Amplify this, Maw."
+727,GAMORA,I don't understand. Two Nebulas.
+728,THANOS,No. The same Nebula. From two different times. Set course for Morag. Scan the duplicate's memories. I want to see everything.
+729,FRIGGA,"My ladies, I'll see you after. Go on."
+730,FRIGGA,What are you doing?
+731,THOR,Aah!!!
+732,FRIGGA,Aah!!!
+733,THOR,"OH, God!"
+734,FRIGGA,You're better off leaving the sneaking to your brother.
+735,THOR,"Yeah, I was simply just going for a walk, and uh..."
+736,FRIGGA,What are you wearing?
+737,THOR,I always wear this. This is one of my favorites.
+738,FRIGGA,What's wrong with your eye?
+739,THOR,"Oh, my eye. That's... you remember the Battle of Haroquin? When I got hit in the face with a broadsword?"
+740,FRIGGA,"You're not the Thor I know at all, are you?"
+741,THOR,"Yes, I am."
+742,FRIGGA,"The future hasn't been kind to you, has it?"
+743,THOR,I didn't say I'm from the future.
+744,FRIGGA,"I was raised by witches, boy. I see with more than eyes, and you know that."
+745,THOR,"I am totally, totally from the future."
+746,FRIGGA,"Yes, you are."
+747,THOR,I really need to talk to you.
+748,FRIGGA,We can talk.
+749,THOR,His head was over there... His body over there... What was the point? I was too late. I was just standing there. Some idiot with an axe.
+750,FRIGGA,You're no idiot. You're here aren't you? Seeking counsel from the wisest person in Asgard.
+751,THOR,"I guess, yeah."
+752,FRIGGA,Idiot? No. A failure? Absolutely.
+753,THOR,That's a little bit harsh.
+754,FRIGGA,You do know what that makes you? Just like everyone else.
+755,THOR,"I'm not supposed to be like everyone else, am I?"
+756,FRIGGA,"Everyone fails at who they are supposed to be, Thor. The measure of a person, of a hero, is how well they succeed at being who they are."
+757,THOR,"I really missed you, Mum."
+758,ROCKET,Thor! I got it!
+759,ASGARDIAN SOLDIER,Get that rabbit!
+760,THOR,"Ma, I have to tell you something."
+761,FRIGGA,"No, son. You don't. You're here to repair your future, not mine."
+762,THOR,But this is about your future.
+763,FRIGGA,It's none of my business.
+764,ROCKET,"Hey. You must be Mom. I got the thing. Come on, we got to move."
+765,THOR,I wish we had more time.
+766,FRIGGA,"No, this was a gift. And you're going to be the man you're meant to be."
+767,THOR,"I love you, Mom."
+768,FRIGGA,I love you. And eat a salad.
+769,ROCKET,Come on. We gotta go.
+770,FRIGGA,Goodbye.
+771,ROCKET,Three... two...
+772,THOR,"No, wait!"
+773,ROCKET,Wh- what am I looking at?
+774,FRIGGA,"Oh, sometimes it takes a second."
+775,THOR,I'm still worthy.
+776,ROCKET,"Oh, boy."
+777,THOR,"Goodbye, Mom."
+778,FRIGGA,Goodbye.
+779,RHODEY,So he's an idiot?
+780,NEBULA,Yeah.
+781,RHODEY,What's that?
+782,NEBULA,The tool of a thief.
+783,RHODEY,"Whoa, whoa, whoa, whoa...This is the part where spikes come out with skeletons on the end and everything..."
+784,NEBULA,What are you talking about?
+785,RHODEY,"When you break into a place called the temple of the Power Stone, There's gonna be a bunch of booby traps–"
+786,RHODEY,Okay. All right. Go ahead.
+787,NEBULA,I wasn't always like this.
+788,RHODEY,"Me either. But we work with what we got, right?"
+789,RHODEY,Sync up.  Three.. two.. one...
+790,BRUCE,You murdered trillions!
+791,THANOS,You should be grateful.
+792,NATASHA,Where are the stones?
+793,THANOS,Gone. Reduced to atoms.
+794,BRUCE,You used them two days ago.
+795,THANOS,I used the stones to destroy the stones. It nearly killed me. But the work is done. It always will be. I am inevitable.
+796,GAMORA,What did you do to them?
+797,THANOS,Nothing. Yet. They're not trying to stop something I'm going to do in our time. They're trying to undo something I've already done in theirs.
+798,GAMORA,The stones...
+799,THANOS,I found them all. I won. Tipped the cosmic scales to balance.
+800,EBONY MAW,This is your future.
+801,THANOS,It's my destiny.
+802,NEBULA,My father is many things. A liar is not one of them.
+803,THANOS,"Ah...Thank you, Daughter. Perhaps I treated you too harshly..."
+804,THANOS,"And that, is destiny fulfilled."
+805,EBONY MAW,"Sire, your Daughter..."
+806,NEBULA,No!
+807,EBONY MAW,...is a traitor.
+808,NEBULA,That's not me. It's not. I could never...I would never betray you. Never.
+809,THANOS,I know. And you'll have the chance to prove it.
+810,NEBULA,"No! He knows!  Barton? Barton, come in. Romanoff? Come in, we have a problem. Come on! Come in, we have a prob....Thanos knows. Thanos… He knows."
+811,TONY STARK,Cap–
+812,TONY STARK,"Sorry, buddy. We got a– problem."
+813,SCOTT LANG,"Huh. Yeah, we do."
+814,STEVE ROGERS,"Well, what are we gonna do now?"
+815,TONY STARK,"You know what? Give me a break, Steve. I just got hit in the head with the Hulk."
+816,SCOTT LANG,You said that we had one shot. This– this was our shot. We shot it. It's shot. Six stones or nothing. Six stones or nothing–
+817,TONY STARK,"You're repeating yourself, you know that? You're repeating yourself."
+818,SCOTT LANG,You're repeating yourself. You're repeating yourself. You know– No.
+819,TONY STARK,"Dude, come on."
+820,SCOTT LANG,"You never wanted a time heist, you went on board with the time heist–"
+821,TONY STARK,I dropped the ball.
+822,SCOTT LANG,You ruined the time heist.
+823,TONY STARK,Is that what I did?
+824,SCOTT LANG,Yeah!
+825,STEVE ROGERS,Are there any other options with the Tesseract?
+826,SCOTT LANG,"No, no, no. There's no other options. There's no do-overs. We're not going anywhere else. We have one particle left. Each. That's it, alright? We use that– Bye, bye. You're not going home."
+827,STEVE ROGERS,"Yeah, well if we don't try, then no one else is going home, either."
+828,TONY STARK,"I got it. There's another way. To retake the Tesseract and acquire new particles. We'll stroll down memory lane. Military installation, Garden State."
+829,STEVE ROGERS,When were they both there?
+830,TONY STARK,They were there at a– I've a vaguely exact idea.
+831,STEVE ROGERS,How vague?
+832,SCOTT LANG,What are you talking about? Where are we going?
+833,TONY STARK,I know for a fact they were there–
+834,SCOTT LANG,Who's they? What are we doing?
+835,TONY STARK,And I know how I know.
+836,SCOTT LANG,"Guys, what's up? What is it?"
+837,TONY STARK,"Well, it looks like we're improvising."
+838,SCOTT LANG,Right. What are we improvising?
+839,TONY STARK,"Scott, get this back to the compound."
+840,TONY STARK,Suit up.
+841,SCOTT LANG,What's in New Jersey?
+842,TONY STARK,"0-4,"
+843,STEVE ROGERS,0-4–-
+844,TONY STARK,"Uhh, 0-7."
+845,STEVE ROGERS,0-7.-
+846,SCOTT LANG,Excuse me...
+847,TONY STARK,1-9-7-0.
+848,STEVE ROGERS,Are you sure?
+849,SCOTT LANG,"Cap. Captain. Steve, sorry, America. Rogers. Look,if you do this, and this doesn't work,you're not coming back."
+850,TONY STARK,"Thanks for the pep talk, pissant. Do you trust me?"
+851,STEVE ROGERS,I do.
+852,TONY STARK,Your call.
+853,STEVE ROGERS,Here we go.
+854,"OUR WATCHER INFORMANT, STAN LEE","Hey, man! Make love, not war!"
+855,TONY STARK,"Clearly, you weren't actually born here, right?"
+856,STEVE ROGERS,The idea of me was.
+857,TONY STARK,"Right. Well, imagineyou're SHIELD, running a quasi-fascisticintelligence organization. Where do you hide it?"
+858,STEVE ROGERS,In plain sight.
+859,TONY STARK,"Good luck on yourmission, Captain."
+860,STEVE ROGERS,"Good luck on yourproject, doctor."
+861,ELEVATOR LADY,You're new here?
+862,STEVE ROGERS,Not exactly.
+863,TONY STARK,Gotcha. Back in the game.
+864,HOWARD STARK,"Arnim, you in there? Arnim? Hey! Door's this way, pal."
+865,TONY STARK,"Oh, yeah."
+866,HOWARD STARK,I'm looking for Dr. Zola.Have you seen him?
+867,TONY STARK,"Yeah, no, Dr. Zol– No, I haven't seen a soul.  Pardon me."
+868,HOWARD STARK,Do I know you?
+869,TONY STARK,"No, sir. I'm a– a visitor from MIT."
+870,HOWARD STARK,Huh. MIT. Got a name?
+871,TONY STARK,Uh– Howard.
+872,HOWARD STARK,"Well, that'll beeasy to remember."
+873,TONY STARK,Howard– Potts.
+874,HOWARD STARK,"Well, I'm Howard Stark."
+875,TONY STARK,Hi.
+876,HOWARD STARK,"Shake it, don't pull it."
+877,TONY STARK,Yeah–
+878,HOWARD STARK,"You look a little green aroundthe gills there, Potts."
+879,TONY STARK,"I'm fine. Just, long hours."
+880,HOWARD STARK,"Wanna get some air? Hello, Potts."
+881,TONY STARK,Yeah. That would be swell.
+882,HOWARD STARK,That way.
+883,TONY STARK,Okay.
+884,HOWARD STARK,Need your briefcase?
+885,HOWARD STARK,"You're not one ofthose beatniks, are ya, Potts?"
+886,CAPTAIN STEVENS,Hello. Dr. Pym?
+887,HANK PYM,That would be the number that you called. Yes.
+888,CAPTAIN STEVENS,This is Captain Stevens from shipping. We have a package for you.
+889,HANK PYM,Bring it up.
+890,CAPTAIN STEVENS,"Well, that's the thing, sir. We can't."
+891,HANK PYM,I'm confused. I thought that was your job.
+892,CAPTAIN STEVENS,"Well, it's just– Sir,the box is glowing and, to be honest, some of our mailguys aren't feeling that great."
+893,HANK PYM,"They didn't open it, did they?"
+894,CAPTAIN STEVENS,"Yeah, they did. You better get down here."
+895,HANK PYM,Excuse me! Out of the way!
+896,TONY STARK,"So, flowers and sauerkraut. Yougot a big date tonight?"
+897,HOWARD STARK,"My wife's expecting. And, uh– Too muchtime in the office."
+898,TONY STARK,Congratulations.
+899,HOWARD STARK,"Thanks. Hold this, will you?"
+900,TONY STARK,"Yeah, sure. How far along is she?"
+901,HOWARD STARK,I don't know– Uh– She's at the point where she can't stand the sound of my chewing. I guess I'll be eatingdinner in the pantry again.
+902,TONY STARK,I have a little girl.
+903,HOWARD STARK,A girl would be nice. Less of a chanceshe'd turn out exactly like me.
+904,TONY STARK,What'd be so awful about that?
+905,HOWARD STARK,Let's just say that the greatergood has rarely outweighed my own self-interests.
+906,SECURITY OFFICER,And you've never seen these two men before?
+907,ELEVATOR LADY,"No, I've got an eye for this. The two of them looked fishy."
+908,SECURITY OFFICER,Can you describe them?
+909,ELEVATOR LADY,"Well, one of them had a hippie beard."
+910,SECURITY OFFICER,Hippie? Like Bee Gees or Mungo Jerry?
+911,ELEVATOR LADY,Definitely Mungo Jerry.
+912,SECURITY OFFICER,"Yeah, this is Chesler. Ineed every available MPs on sub-level 6. We havea potential breach."
+913,TONY STARK,"So, where are youat with names?"
+914,HOWARD STARK,"Well, if it's a boy, my wife likes Elmonzo."
+915,TONY STARK,"Huh, Might wanna let that stew awwhile. You got time."
+916,HOWARD STARK,Let me ask you a question. When your kid was born– were you nervous?
+917,TONY STARK,Wildly. Yeah.
+918,HOWARD STARK,Did you feel qualified? Like you had any idea how tosuccessfully operate that thing?
+919,TONY STARK,"I literally pieced it together as I went along, I thought about what my Dad did, and–"
+920,HOWARD STARK,"My old man, he never met a problem he couldn't solve with a belt."
+921,TONY STARK,"I thought my dad was tough on me. And now, looking back, I just remember the good stuff, you know. He did drop the odd pearl."
+922,HOWARD STARK,Yeah? Like what?
+923,TONY STARK,"""No amount of money everbought a second of time."""
+924,HOWARD STARK,Smart guy.
+925,TONY STARK,He did his best.
+926,HOWARD STARK,"Let me tell you. Thatkid's not even here yet, and there's nothing Iwouldn't do for him. Good to meet you, Potts."
+927,TONY STARK,"Yeah, Howard– Everything's gonna be all right. Thank you– for everything– you've done for this country."
+928,HOWARD STARK,"Jarvis, have we ever met that guy?"
+929,EDWIN JARVIS,"You meet a lot of people, sir."
+930,HOWARD STARK,Seems very familiar. Weird beard.
+931,NEBULA,You're weak.
+932,NEBULA,I'm you.
+933,NEBULA,You can stop this. You know you want to. Did you see whathappens in the future? Thanos finds the Soul Stone. You wanna knowhow he does that? You wanna know whathe does to you?
+934,NEBULA,That's enough.  You disgust me. But that doesn'tmean you're useless.
+935,NEBULA,How do I look?
+936,CLINT BARTON,"Wow– Under different circumstances, this would be totally awesome."
+937,NATASHA ROMANOFF,I bet the raccoon didn'thave to climb a mountain.
+938,CLINT BARTON,"Technically, he's nota raccoon, you know."
+939,NATASHA ROMANOFF,Whatever. He eats garbage
+940,RED SKULL,Welcome.
+941,RED SKULL,"Natasha, daughter of Ivan. Clint, son of Edith."
+942,NATASHA ROMANOFF,Who are you?
+943,RED SKULL,"Consider me a guide. To you, and to all whoseek the Soul Stone."
+944,NATASHA ROMANOFF,"Oh, good. You tell us where it is.Then we'll be on our way."
+945,RED SKULL,"Ah, liebchen– If only it were that easy."
+946,RED SKULL,What you seek liesin front of you... as does what you fear.
+947,NATASHA ROMANOFF,The stone is down there.
+948,RED SKULL,"For one of you. For the other... In order to take the stone, youmust lose that which you love. An everlasting exchange. A soul, for a soul."
+949,CLINT BARTON,How's it going? Jesus...Maybe he's making this shit up.
+950,NATASHA ROMANOFF,No. I don't think so.
+951,CLINT BARTON,"Why, 'cause he knows your Daddy's name?"
+952,NATASHA ROMANOFF,I didn't. Thanos left here with the stone without his daughter. It's not a coincidence.
+953,CLINT BARTON,Yeah.
+954,NATASHA ROMANOFF,Whatever it takes.
+955,CLINT BARTON,Whatever it takes.
+956,NATASHA ROMANOFF,"If we don't get that stone, billions of people stay dead."
+957,CLINT BARTON,Then I guess we both know who it's gotta be.
+958,NATASHA ROMANOFF,I guess we do.
+959,CLINT BARTON,"I'm starting to think– we mean different people here, Natasha."
+960,NATASHA ROMANOFF,For the last five years I've been trying to do one thing: Get to right here. That's all it's been about. Bringing everybody back.
+961,CLINT BARTON,"Oh, don't you get all decent on me now."
+962,NATASHA ROMANOFF,"What, you think I wanna do it? I'm trying to save your life, you idiot."
+963,CLINT BARTON,"Yeah, well, I don't want you to, because I– Natasha, you know what I've done. You know what I've become."
+964,NATASHA ROMANOFF,I don't judge people ontheir worst mistakes.
+965,CLINT BARTON,Maybe you should.
+966,NATASHA ROMANOFF,You didn't.
+967,CLINT BARTON,"You're a pain in my ass, you know that?"
+968,CLINT BARTON,Okay. You win.
+969,CLINT BARTON,Tell my family I love them.
+970,NATASHA ROMANOFF,You tell them yourself.
+971,CLINT BARTON,Damn you!
+972,NATASHA ROMANOFF,Let me go.
+973,CLINT BARTON,"No. Please, no."
+974,NATASHA ROMANOFF,It's okay.
+975,CLINT BARTON,Please–  NO!!!
+976,BRUCE BANNER,Did we get them all?
+977,RHODEY,You telling me this'llactually work?
+978,BRUCE BANNER,"Clint, where's Nat?"
+979,TONY STARK,Do we know if she had family?
+980,STEVE ROGERS,Yeah. Us.
+981,THOR,What?
+982,TONY STARK,I just asked him a question–
+983,THOR,"Yeah, you're acting like she's dead. Why are we acting like she's dead? We have the stones, right? As long as we have the stones, Cap, we can bring her back, isn't that right?  So stop this shit. We're the Avengers, get it together."
+984,CLINT BARTON,We can't get her back.
+985,THOR,Wha– what?
+986,CLINT BARTON,It can't be undone. It can't.
+987,THOR,"I'm sorry. No offense, but you'rea very earthly being. Okay? We're talking about space magic. And ""can't"" seems very definitive don't you think?"
+988,CLINT BARTON,"Yeah, look, I know that I'm way outside my paygrade here. But she still isn't here, is she?"
+989,THOR,"No, that's my point–"
+990,CLINT BARTON,"It can't– be undone. Or that's at least what the red floating guy had to say.  Maybe you wanna go talk to him, okay? GO GRAB YOUR HAMMER, AND YOU GO FLY AND TALK TO HIM!"
+991,CLINT BARTON,It was supposed to be me. She sacrificed her life for that goddamn stone. She bet her life on it.
+992,BRUCE BANNER,She's not coming back. We have to make it worth it. We have to.
+993,STEVE ROGERS,We will.
+994,ROCKET,Boom!
+995,ROCKET,"All right. The glove's ready. Question is, who's gonna snap their freaking fingers?"
+996,THOR,I'll do it.
+997,SCOTT LANG,Excuse me?
+998,THOR,It's okay.
+999,EVERYONE,"No, no, no, whoa. Stop. Stop. Wait a sec. Hey, hey–"
+1000,STEVE ROGERS,"Wait, wait, Thor, just wait. We haven't decided who's gonna put that on yet."
+1001,THOR,"I'm sorry. What, we're just sitting around waiting for the right opportunity?"
+1002,SCOTT LANG,We should at least discuss it.
+1003,THOR,"No, no, sitting here staring at that thing is not gonna bring everybody back. I'm the strongest Avenger, okay? So this responsibility falls upon me. It's my duty."
+1004,TONY STARK,It's not about that–
+1005,THOR,Just let me do it. Just let me do something good. Something right.
+1006,TONY STARK,"Look– It's not just the fact that that glove is channeling enough energy to light up a continent, I'm telling you, you're in no condition."
+1007,THOR,What do you– What do you think is coursing through my veins right now?
+1008,RHODEY,Cheez Whiz?
+1009,THOR,Lightning.
+1010,TONY STARK,Yeah.
+1011,BRUCE,"Lightning won't help you, pal. It's gotta be me."
+1012,BRUCE BANNER,You saw what those stones did to Thanos. It almost killed him. None of you could survive.
+1013,STEVE ROGERS,How do we know you will?
+1014,BRUCE BANNER,We don't. But the radiation's mostly gamma.  It's like...I was made for this.
+1015,TONY STARK,"Good to go, yeah?"
+1016,BRUCE BANNER,Let's do it.
+1017,TONY STARK,"You remember– everyone Thanos snapped away five years ago and just bringing them back to now, today. Don't change anything from the last five years."
+1018,BRUCE BANNER,Got it.
+1019,TONY STARK,"F.R.I.D.A.Y., do me a favor and activate Barn Door Protocol. Will you?"
+1020,F.R.I.D.A.Y.,"Yes, boss."
+1021,BRUCE BANNER,Everybody comes home.
+1022,THOR,Take it off! Take it off!
+1023,STEVE ROGERS,"No, wait. Bruce, are you okay?"
+1024,TONY STARK,"Talk to me, Banner."
+1025,BRUCE BANNER,I'm okay. I'm okay.
+1026,STEVE ROGERS,Bruce!
+1027,TONY STARK,Don't move him.
+1028,BRUCE ROGERS,Did it work?
+1029,THOR,Worth a shot. It's over. It's okay.
+1030,CLINT BARTON,Honey. Honey.
+1031,SCOTT LANG,Guys– I think it worked!
+1032,ROCKET,I can't breathe. I can't breathe! I can't breathe.
+1033,RHODEY,Canopy. Canopy. Canopy.
+1034,BRUCE BANNER,"Rhodey, Rocket, get outta here!"
+1035,ROCKET,Hurry up! Hurry up! Come on!
+1036,BRUCE BANNER,Rhodey!
+1037,RHODEY,"Mayday, mayday! Does anybody copy? We're in the lower level, it's flooding!"
+1038,SCOTT LANG,What?
+1039,RHODEY,We're drowning! Does anybody copy? Mayday!
+1040,SCOTT LANG,"Wait! I'm here! I'm here, can you hear me?"
+1041,CLINT BARTON,Cap?
+1042,CLINT BARTON,Damn.
+1043,THANOS,Daughter.
+1044,NEBULA,"Yes, Father."
+1045,THANOS,"So, this is the future. Well done."
+1046,NEBULA,"Thank you, Father. They suspected nothing."
+1047,THANOS,The arrogant never do.
+1048,THANOS,Go. Find the stones. Bring them to me.
+1049,NEBULA,What will you do?
+1050,THANOS,Wait.
+1051,GAMORA,"Tell me something. In the future, what happens to you and me?"
+1052,NEBULA,I tried to kill you. Several times.
+1053,NEBULA,"But eventually,we become friends. We become sisters."
+1054,GAMORA,Come on. We can stop him.
+1055,TONY STARK,"Come on, buddy. Wake up. That's my man. You lose this again, I'm keeping it."
+1056,STEVE ROGERS,What happened?
+1057,TONY STARK,You messed with time.It tends to mess back. You'll see.
+1058,TONY STARK,What's he been doing?
+1059,THOR,Absolutely nothing.
+1060,STEVE ROGERS,Where are the stones?
+1061,TONY STARK,Somewhere under all this. All I know is he doesn't have them.
+1062,STEVE ROGERS,So we keep it that way.
+1063,THOR,"You know it's a trap, right?"
+1064,TONY STARK,Yeah. And I don't much care.
+1065,THOR,Good. Just as long we are all in agreement.  Let's kill him properly this time.
+1066,THANOS,"You could not live with your own failure. And where did that bring you? Back to me. I thought by eliminating half of life, the other half would thrive. But you’ve shown me that’s impossible. And as long as there are those that remember what was, there will always be those that are unable to accept what can be. They will resist."
+1067,TONY STARK,Yep. We're all kinds of stubborn.
+1068,THANOS,"I'm thankful. Because now, I knowwhat I must do.  A grateful universe."
+1069,STEVE ROGERS,Born out of blood.
+1070,THANOS,They'll never know it. Because you won't bealive to tell them.
+1071,RHODEY,"See you on the other side, man."
+1072,SCOTT LANG,Hang on! I'm coming!
+1073,CLINT BARTON,"Oh, hey– I know you."
+1074,NEBULA,Father.
+1075,NEBULA,I have the stones.
+1076,CLINT BARTON,What?!
+1077,GAMORA,Stop.
+1078,NEBULA,You're betraying us?
+1079,NEBULA,You don't have to do this.
+1080,NEBULA,I am this.
+1081,GAMORA,"No, you're not."
+1082,NEBULA,You've seen what we become.
+1083,GAMORA,"Nebula, listen to her."
+1084,NEBULA,You can change.
+1085,NEBULA,He won't let me.
+1086,GAMORA,NO!
+1087,TONY STARK,"Okay, Thor. Hit me."
+1088,F.R.I.D.A.Y,"Boss, wake up!"
+1089,THOR,I knew it!
+1090,THANOS,"In all my years of conquest– violence– slaughter– It was never personal. But I'll tell you now– what I'm about to do to your stubborn, annoying little planet– I'm gonna enjoy it. Very, very much."
+1091,SAM WILSON,"Hey, Cap, you read me?"
+1092,SAM WILSON,"Cap, it's Sam. Can you hear me?"
+1093,SAM WILSON,On your left.
+1094,DOCTOR STRANGE,Is that everyone?
+1095,WONG,"What, you wanted more?"
+1096,STEVE ROGERS,AVENGERS!  –assemble.
+1097,THOR,"No, no, give me that. You have the little one."
+1098,PETER PARKER,"Hey! Holy cow! You will not believe what's been going on. Do you remember when we were in space? And I got all dusty? I must've passed out, Because I woke up, and you were gone. But Doctor Strange was there, right? He was like, ""It's been five years. Come on, they need us."" And then he started doing the yellow sparkly thing that he does all the time–"
+1099,TONY STARK,"He did? Oh, God."
+1100,PETER PARKER,What are you doing?
+1101,PETER PARKER,"Oh, this is nice."
+1102,PETER QUILL,Gamora?  I thought I lost you.
+1103,PETER QUILL,Ow.
+1104,GAMORA,me!
+1105,PETER QUILL,You missed the first time– Then you got them both the second time.
+1106,GAMORA,This is the one? Seriously?
+1107,NEBULA,"The choices were him, or a tree."
+1108,CLINT BARTON,"Cap, what do you want me to do with this damn thing?"
+1109,STEVE ROGERS,Get those stones as far away as possible!
+1110,BRUCE BANNER,No! We need to get them back where they came from.
+1111,TONY STARK,No way to get them back. Thanos destroyed the quantum tunnel.
+1112,SCOTT LANG,Hold on!  That wasn't our only time machine.
+1113,STEVE ROGERS,"Anyone see an ugly, brown van up there?"
+1114,VALKYRIE,Yes! But you're not gonna like where it's parked!
+1115,TONY STARK,"Scott, how long you need to get that thing working?"
+1116,SCOTT LANG,Maybe ten minutes.
+1117,STEVE ROGERS,Get it started. We'll get the stones to you.
+1118,HOPE VAN DYNE,"We're on it, Cap."
+1119,TONY STARK,"Hey. You said one out of 14 million, we win, yeah? Tell me this is it."
+1120,DOCTOR STRANGE,"If I tell you what happens, it won't happen."
+1121,TONY STARK,You better be right.
+1122,THE WASP,It's a mess back here.
+1123,SCOTT LANG,It's– it's dead.
+1124,THE WASP,What?
+1125,SCOTT LANG,It's dead. I have to hotwire it.
+1126,THANOS,Where's Nebula?
+1127,CORVUS GLAIVE,She's not responding.
+1128,EBONY MAW,Sire!
+1129,T'CHALLA,Clint! Give it to me.
+1130,WANDA MAXIMOFF,You took everything from me.
+1131,THANOS,I don't even know who you are.
+1132,WANDA MAXIMOFF,You will.
+1133,PETER PARKER,I got it!
+1134,PETER PARKER,Activate Instant Kill!
+1135,THANOS,Rain fire!
+1136,CORVUS GLAIVE,"But sire, our troops!"
+1137,THANOS,Just do it!
+1138,PEPPER POTTS,"Uh, is anyone else seeing this?"
+1139,PETER PARKER,"I got this. I got this! Okay, I don't got this. Help! Somebody, help!"
+1140,STEVE,"Hey, Queens, heads up."
+1141,PEPPER POTTS,"Hang on. I got you, kid."
+1142,PETER PARKER,"Hey! Nice to meet you– OH, MY GOD!"
+1143,SAM,What the hell is this?
+1144,TONY STARK,"F.R.I.D.A.Y., what are they firing at?"
+1145,F.R.I.D.A.Y.,Something just entered the upper atmosphere.
+1146,ROCKET,"Oh, yeah!"
+1147,STEVE ROGERS,"Danvers, we need an assist here."
+1148,PETER PARKER,Hi. I'm– Peter Parker.
+1149,CAROL DANVERS,"Hey, Peter Parker. You got something for me?"
+1150,PETER PARKER,I don't know how you're gonna get it through all that.
+1151,WANDA MAXIMOFF,Don't worry.
+1152,OKOYE,She's got help.
+1153,"[Pepper lands next to Okoye, followed by Mantis, Shuri, the Wasp, 2014 Gamora and Nebula. Thanos' army charges while the women help Carol Danvers go through the Outriders, Sakaarans and Chitauri. 2014 Gamora takes out a gorilla, while Okoye takes out Corvus Glaive. Wanda and Valkyrie destroy two leviathans. Carol Danvers then starts flying towards the van with the Gauntlet, flying past enemies and going through enemy blockades that are in her way with ease. Thanos, seeing this, starts running to Carol Danvers, but is stopped by Pepper, Shuri and The Wasp, who blast him backwards. Thanos, after seeing Carol Danvers fly past him, throws his double sword at the van, destroying it and the quantum realm tunnel, throwing Carol Danvers backwards and losing her grip on the Gauntlet, which falls to the ground. Doctor Strange steadies the water after the explosion. In the final brawl for the Stark Gauntlet, Stark moves one of Thanos' enemies aside and sees the Gauntlet. He runs to get it, but sees Thanos, who Stark tackles. Thanos smacks Stark away, knocking him out. Then Thor arrives with Stormbreaker and 2013 Mjolnir in an attempt to pin Thanos' arm down, with assistance from Captain America. However, Thanos overpowers them and knocks them both out. After picking up the Gauntlet, Carol Danvers arrives, punching away at Thanos while he is holding the Gauntlet. She keeps punching him, but Thanos grabs her by the arm and flings her away. Thanos puts on the gauntlet, gamma radiation from the stones eating at him as he tries to snap, but Carol Danvers arises again, and stops his fingers from snapping, opening up his hand similar to what Captain America did in Avengers","Infinity War. Thanos headbutts her, but it does nothing. Just as Carol Danvers is gaining the upper hand by rising up and forcing Thanos onto his knees, Thanos pulls the Power Stone out of the Gauntlet and uses it in his free hand to hit Carol Danvers away. Stark looks in question at Strange, who simply raises one finger, reminding him that the one win over Thanos he foresaw is now at risk. Or is it? Stark nods. Thanos puts the Power Stone back into the Gauntlet, yelling from the gamma radiation coursing through him, until Stark makes one last attack on Thanos, pulling on the Gauntlet before Thanos punches him away.]"
+1154,THANOS,I am– inevitable.
+1155,TONY STARK,And I– am– Iron Man.
+1156,PETER PARKER,Mr. Stark?
+1157,PETER PARKER,I'm sorry– Tony–
+1158,PEPPER POTTS,Hey.
+1159,TONY STARK,"Hey, Pep.."
+1160,PEPPER POTTS,F.R.I.D.A.Y.?
+1161,F.R.I.D.A.Y.,Life functions critical.
+1162,PEPPER POTTS,Tony. Look at me.  We're gonna be okay. You can rest now.
+1163,TONY STARK,"Everybody wants a happy ending, right? But it doesn't always roll that way. Maybe this time. I'm hoping if you play this back, it's in celebration. I hope families are reunited, I hope we get it back, and something like a normal version of the planet has been restored. If there ever was such a thing. God, what a world. Universe, now. If you told me ten years ago that we weren't alone, let alone, you know, to this extent, I mean, I wouldn't have been surprised. But come on, you know? The epic forces of darkness and light that have come into play. And, for better or worse, that's the reality Morgan's gonna have to find a way to grow up in."
+1164,TONY STARK,"So I thought I'd probably better record a little greeting... In the case of an untimely death on my part. I mean, not that, death at any time isn't untimely. This time travel thing that we're gonna try and pull off tomorrow, it's– it's got me scratching my head about the survivability of it all. That's the thing. Then again, that's the hero gig. Part of the journey is the end.  I love you 3,000."
+1165,CLINT,"You know, I wish there was a way– that I could let her know. That we won.  We did it."
+1166,WANDA MAXIMOFF,She knows– They both do.
+1167,HAPPY,"How you doing, Squirt?"
+1168,MORGAN STARK,Good.
+1169,HAPPY,You good? Okay. You hungry?
+1170,MORGAN STARK,Mm. Hm.
+1171,HAPPY,What do you want?
+1172,MORGAN STARK,Cheeseburgers.
+1173,HAPPY,You know your dad liked cheeseburgers? I'm gonna get you all the cheeseburgers you want.
+1174,MORGAN STARK,Okay.
+1175,VALKYRIE,"So, when can we expect you back?"
+1176,THOR,Um– about that–
+1177,VALKYRIE,Thor. Your people need a king.
+1178,THOR,"No, they already have one."
+1179,VALKYRIE,That's funny. You're being serious?
+1180,THOR,"It's time for me to be who I am rather than who I'm supposed to be. But you, you're a leader. That's who you are."
+1181,VALKYRIE,You know I'd make a lot of changes around here.
+1182,THOR,I'm counting on it. Your Majesty.
+1183,VALKYRIE,What will you do?
+1184,THOR,"I'm not sure. For the first time in a thousand years, I– I have no path. I do have a ride, though."
+1185,ROCKET,"Move it or lose it, hairbag."
+1186,THOR,"Well, here we are. Tree! Good to see you. Well–"
+1187,QUILL,"Hey, just so you know, this is my ship still. I'm in charge."
+1188,THOR,"I know. I know. Of course, you are. Of course."
+1189,QUILL,"See, you say of course, but then you touch the map. It makes you think that maybe you didn't realize I was in charge."
+1190,THOR,Quail– you– that– that's your own–
+1191,QUILL,Quail?
+1192,THOR,–insecurities in there. Okay? I'm merely trying to be of service and assisting.
+1193,QUILL,It's Quill.
+1194,THOR,That's what I said.
+1195,DRAX,You should fight one another for the honor of leadership.
+1196,NEBULA,Sounds fair.
+1197,QUILL,It's not necessary.
+1198,THOR,It's not.
+1199,QUILL,Okay?
+1200,ROCKET,"I got some blasters, unless you guys wanna use knives."
+1201,MANTIS,"Oooh, yes. Please, use knives."
+1202,DRAX,"Yeah, knives."
+1203,GROOT,I am Groot.
+1204,QUILL,Not necessary...
+1205,THOR,There shall be no knifing one another. Everybody knows who's in charge.
+1206,QUILL,"Me, right?"
+1207,THOR,"Yes, you. Of course. Of course. Of course."
+1208,BRUCE BANNER,"Now, remember– You have to return the stones to the exact moment you got them. Or you're gonna open up a bunch of nasty alternative realities."
+1209,STEVE ROGERS,"Don't worry, Bruce. Clip all the branches."
+1210,BRUCE BANNER,"You know, I tried. When I had the gauntlet, the stones, I really tried to bring her back.  I miss her, man."
+1211,STEVE ROGERS,"Me, too."
+1212,SAM WILSON,"You know, if you want, I can come with you."
+1213,STEVE ROGERS,"You're a good man, Sam. This one's on me, though."
+1214,STEVE ROGERS,Don't do anything stupid 'till I get back.
+1215,BUCKY BARNES,How can I? You're taking all the stupid with you.
+1216,BUCKY BARNES,"Gonna miss you, Buddy."
+1217,STEVE ROGERS,"It's gonna be okay, Buck."
+1218,SAM WILSON,How long is this gonna take?
+1219,BRUCE BANNER,For him? As long as he needs. For us? Five seconds.
+1220,BRUCE BANNER,"Ready, Cap? Alright. We'll meetyou back here, okay?"
+1221,STEVE ROGERS,You bet.
+1222,BRUCE BANNER,"Going quantum. Three, two, one–"
+1223,BRUCE BANNER,"And returning in, five, four, three, two, one–"
+1224,SAM WILSON,Where is he?
+1225,BRUCE BANNER,I don't know. He blew right by his time stamp. He should be here.
+1226,SAM WILSON,"Well, get him back."
+1227,BRUCE BANNER,I'm trying.
+1228,SAM WILSON,Get him the hell back!
+1229,BRUCE BANNER,"Hey, I said, I'm trying!"
+1230,BUCKY BARNES,Sam...
+1231,BUCKY BARNES,Go ahead.
+1232,SAM WILSON,Cap?
+1233,STEVE ROGERS,"Hi, Sam."
+1234,SAM WILSON,"So did something go wrong, or did something go right?"
+1235,STEVE ROGERS,"Well, after I put the stones back, I thought, maybe I'll try some of that life Tony was telling me to get."
+1236,SAM WILSON,How'd that work out for you?
+1237,STEVE ROGERS,It was beautiful.
+1238,SAM WILSON,I'm happy for you. Truly.
+1239,STEVE ROGERS,Thank you.
+1240,SAM WILSON,Only thing bumming me out is the fact I have to live in a world without Captain America.
+1241,STEVE ROGERS,"Oh, That reminds me.  Try it on."
+1242,STEVE ROGERS,How does it feel?
+1243,SAM WILSON,Like it's someone else's.
+1244,STEVE ROGERS,It isn't.
+1245,SAM WILSON,Thank you. I'll do my best.
+1246,STEVE ROGERS,That's why it's yours.
+1247,SAM WILSON,You wanna tell me about her?
+1248,STEVE ROGERS,"No. No, I don't think I will."
